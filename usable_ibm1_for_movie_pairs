@@ -1,0 +1,139 @@
+'''EM training algorithm for IBM Model 1 implementation Python version as described in P. Koehn's book page 91
+    #Input: set of sentence pairs (e,f)    e:corpus.en     f:corpus.sv
+    #Output: translation prob. t(e|f)
+    note that this is not final
+    '''
+    
+import math
+import codecs
+'''block 1: read the two files and get the following data structure:
+    # get word_dict: keys are 'e' and 'f', values are lists of all english and foreign words respectively
+    # get ef_sent_pairs: nested lists of words'''
+
+'''get ef_sent_pairs'''
+ed_list = []
+fd_list = []
+with codecs.open('movieen.txt', "r", encoding='utf-8', errors='ignore') as ed:
+    for line in ed:
+        ed_list.append(line.lower().strip())
+with codecs.open('moviesv.txt', "r", encoding='utf-8', errors='ignore') as fd:
+    for line in fd:
+        fd_list.append(line.lower().strip())
+ef_sent_pairs = list(zip(ed_list, fd_list))
+
+'''get word_dict'''
+ef_pairs_tokens = [list(l) for l in zip(ed_list, fd_list)]
+for i in ef_pairs_tokens:
+    i[0] = i[0].split()
+    i[1] = i[1].split()
+word_dict = {'e':[],'f':[]} #12 distinctive e_words and 13 f_words.
+for i in ef_pairs_tokens:
+    for w in i[0]:
+        if w not in word_dict['e']:
+            word_dict['e'].append(w)
+    for w in i[1]:
+        if w not in word_dict['f']:
+            word_dict['f'].append(w)
+
+
+'''block 2: initialize t(e|f) uniformly. '''
+def init_tp(word_dict): # from https://github.com/shawa/IBM-Model-1/blob/master/trainer.py
+    return {
+        word_e: {word_f: 1/len(word_dict['e'])
+                  for word_f in word_dict['f']}
+    for word_e in word_dict['e']}
+
+init_tp = init_tp(word_dict)
+
+########################################
+#Test_set FROM THE BOOK
+#ef_sent_pairs =[('the house','das haus'),('the book','das buch'),('a book','ein buch')]
+#word_dict={'e':['book','house','a','the'],'f':['buch','das','ein','haus']}
+#init_tp = {'the':{'das':0.25,'buch':0.25,'haus':0.25,'ein':0.25},'house':{'das':0.25,'buch':0.25,'haus':0.25,'ein':0.25},'book':{'das':0.25,'buch':0.25,'haus':0.25,'ein':0.25},'a':{'das':0.25,'buch':0.25,'haus':0.25,'ein':0.25}}
+#######################################
+
+'''block 3. implementation of the pseudo_code without the convergence part'''
+def pseudo_code(ef_sent_pairs, current_tp):
+
+    counts = {word_en: {word_fr: 0 for word_fr in word_dict['f']} for word_en in word_dict['e']}
+    totals = {word_fr: 0 for word_fr in word_dict['f']}
+
+    for sent_pair in ef_sent_pairs:
+        e, f = sent_pair
+        e_words = e.split()
+        f_words = f.split()
+        for e_word in e_words:
+            s_total[e_word] = 0
+            for f_word in f_words:
+                s_total[e_word] += current_tp[e_word][f_word] #t(e|f)
+
+    #collect_counts(ef_sent_pairs):
+    for sent_pair in ef_sent_pairs:
+        e, f = sent_pair
+        e_words = e.split()
+        f_words = f.split()
+        for e_word in e_words:
+            for f_word in f_words:
+                counts[e_word][f_word] += current_tp[e_word][f_word]/s_total[e_word]
+                totals[f_word] += current_tp[e_word][f_word]/s_total[e_word]
+
+    #estimate probabilities
+    for f in word_dict['f']:
+        for e in word_dict['e']:
+            current_tp[e][f] = counts[e][f]/totals[f]
+
+    #calculate log(2,PP)
+    perp_all = []
+    for sent_pair in ef_sent_pairs:
+        e, f = sent_pair
+        e_words = e.split()
+        f_words = f.split()
+        epsilon = 1
+        divisor = len(f_words) ** len(e_words)
+        ll = []  # adding sums for each e word (+ all foreign words)
+        tt = 1
+        for e_word in e_words:
+            s = 0
+            for f_word in f_words:
+                prob = current_tp[e_word][f_word]
+                s += prob
+            ll.append(s)
+        for i in ll:
+            tt = tt * i
+        tt = tt *(epsilon/ divisor)
+        tt = math.log2(tt)
+        perp_all.append(tt)
+
+    all = 0
+    for i in perp_all:
+        all += i
+
+    print('the log(PP,2) is: ',-all) #-all is log(PP,2)
+
+    return current_tp
+
+
+'''block 4 - iteration and convergence stuff'''
+s_total = {}
+current_tp = init_tp
+step = 0
+while True:
+    current_tp = pseudo_code(ef_sent_pairs,current_tp)
+    step +=1
+
+    #print the 10 highest lexical translation probabilities t(e|f)
+    #after each of the first 5 iterations
+    print('==============STEP{}============='.format(step))
+    tops = []
+    for en,sv in current_tp.items():
+        top = 0
+        for sv, score in sv.items():
+            if score > top:
+                top = score
+                en_high = (score, en, sv)
+        tops.append(en_high)
+    tops.sort(reverse=True)
+    print(tops[0:10], '\n\n')
+
+    if step == 20:
+        break
