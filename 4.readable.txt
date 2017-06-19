@@ -1,0 +1,3930 @@
+
+# 4.en.xml
+# 4.sv.xml
+
+================================
+(src)="1"> - Who are you ? 
+(trg)="1"> - Vem är du ? 
+================================
+(src)="2"> - Jim Moriarty . 
+(trg)="2"> - Jim Moriarty . 
+================================
+(src)="3"> Bye . 
+(trg)="3"> Adjö ! 
+================================
+(src)="4"> Consulting criminal . 
+(trg)="4"> Brottskonsult ... 
+================================
+(src)="5"> I have loved this , this little game of ours . 
+(trg)="5"> Det har varit roligt , vår lilla lek . 
+================================
+(src)="6"> - People have died . 
+(trg)="6"> - Människor har dött . 
+================================
+(src)="7"> - That' s what people do ! 
+(trg)="7"> - Folk dör hela tiden ! 
+================================
+(src)="8"> I will stop you . 
+(trg)="8"> Jag kommer att stoppa dig . 
+================================
+(src)="9"> If you don' t stop prying ... ... I' il burn you . 
+(trg)="9"> Om du inte slutar snoka , ska jag bränna dig . 
+================================
+(src)="10"> I will burn ... the heart out of you . 
+(trg)="10"> Jag bränner hjärtat ur kroppen på dig . 
+================================
+(src)="11"> Catch you later . 
+(trg)="11"> Vi ses när jag fångar dig . 
+================================
+(src)="12"> No , you won' t . 
+(trg)="12"> Det kan du inte ! 
+================================
+(src)="13"> Sorry , boys ! 
+(trg)="13"> Ledsen , grabbar ! 
+================================
+(src)="14"> I' m so changeable . 
+(trg)="14"> Jag är så ombytlig . 
+================================
+(src)="15"> It is a weakness with me , but to be fair to myself ... ... it is my only weakness . 
+(trg)="15"> Det är en svaghet , men i rättvisans namn min enda . 
+================================
+(src)="16"> You can' t be allowed to continue . 
+(trg)="16"> Jag kan inte låta dig fortsätta . 
+================================
+(src)="17"> You just can' t . 
+(trg)="17"> Det går bara inte . 
+================================
+(src)="18"> I would try to convince you ... ... but everything I have to say has already crossed your mind . 
+(trg)="18"> Jag skulle gärna omvända dig , men alla mina argument har redan föresvävat dig . 
+================================
+(src)="19"> Probably my answer has crossed yours . 
+(trg)="19"> Och mitt svar har säkert föresvävat dig . 
+================================
+(src)="20"> Do you mind if I get that ? 
+(trg)="20"> Kan jag svara ? 
+================================
+(src)="21"> Oh no , please ... 
+(src)="22"> You' ve got the rest of your life . 
+(trg)="21"> Varsågod , du har hela livet på dig . 
+================================
+(src)="23"> Hello ? 
+(trg)="22"> Hallå ? 
+================================
+(src)="24"> Yes , of course it is . 
+(trg)="23"> Det är klart , vad vill du ? 
+================================
+(src)="25"> What do you want ? 
+================================
+(src)="26"> Say that again ! 
+(trg)="24"> Säg om det där ! 
+================================
+(src)="27"> Say that again and know that if you' re lying to me ... ... I will find you and I will skin you . 
+(trg)="25"> Om du ljuger för mig kommer jag att leta upp dig - 
+(trg)="26"> - och flå dig ! 
+================================
+(src)="28"> Wait . 
+(trg)="27"> Vänta ! 
+================================
+(src)="29"> Sorry . 
+(trg)="28"> Tyvärr . 
+================================
+(src)="30"> Wrong day to die . 
+(trg)="29"> Det är fel dag att dö på . 
+(trg)="30"> Jaså ... 
+================================
+(src)="31"> Oh ... 
+(src)="32"> Did you get a better offer ? 
+(trg)="31"> Fick du ett bättre erbjudande ? 
+================================
+(src)="33"> You' il be hearing from me , Sherlock . 
+(trg)="32"> På återhörande , Sherlock . 
+================================
+(src)="34"> So if you have what you say you have , I will make you rich . 
+(trg)="33"> Om du har det du påstår ska jag göra dig rik . 
+================================
+(src)="35"> If you don' t , I' il make you into shoes . 
+(trg)="34"> Om inte , gör jag skor av dig . 
+================================
+(src)="36"> What happened there ? 
+(trg)="35"> - Vad var det som hände ? 
+================================
+(src)="37"> Someone changed his mind . 
+(trg)="36"> - Nån ändrade sig . 
+================================
+(src)="38"> The question is ... who ? 
+(trg)="37"> Frågan är vem . 
+================================
+(src)="39"> Well , now , have you been wicked , Your Highness ? 
+(trg)="38"> - Har ni varit stygg , Ers höghet ? 
+================================
+(src)="40"> Yes , Miss Adler . 
+(trg)="39"> - Ja , miss Adler . 
+================================
+(src)="41"> - What are you typing ? 
+(trg)="40"> - Vad skriver du ? 
+================================
+(src)="42"> - A blog . 
+(src)="43"> - About ? 
+(trg)="41"> - En blogg , om oss . 
+================================
+(src)="44"> - Us . 
+(trg)="42"> Mig , menar du . 
+================================
+(src)="45"> - You mean me . 
+(src)="46"> - Why ? 
+(src)="47"> Well , you' re typing a lot . 
+(trg)="43"> Med tanke på hur mycket du skriver . 
+================================
+(src)="48"> Right , then . 
+(trg)="44"> Då ska vi se vad som bjuds . 
+================================
+(src)="49"> So , what have we got ? 
+================================
+(src)="50"> My wife seems to be spending a very long time at the office . 
+(trg)="45"> - Min fru stannar ofta kvar på kontoret . 
+(trg)="46"> - Tråkigt ! 
+================================
+(src)="51"> Boring . 
+(src)="52"> I think my husband might be having an affair . 
+(trg)="47"> - Jag tror att min man är otrogen . 
+================================
+(src)="53"> Yes . 
+(trg)="48"> - Det stämmer . 
+================================
+(src)="54"> She' s not my real aunt , she' s been replaced . 
+(trg)="49"> Min faster har blivit utbytt . 
+================================
+(src)="55"> I know she has . 
+(trg)="50"> - Det här är inte människoaska . 
+================================
+(src)="56"> - I know human ash . 
+(trg)="51"> - Försvinn . 
+================================
+(src)="57"> - Leave . 
+(src)="58"> We are prepared to offer any sum of money you care to mention ... 
+(trg)="52"> - Vi betalar bra om ni hittar filerna ... 
+================================
+(src)="59"> - ... for the recovery of these files . 
+(trg)="53"> - Tråkigt ! 
+================================
+(src)="60"> - Boring ! 
+(src)="61"> We have this website , it explains the true meaning of comic books ... ... ' cause people miss a lot of the themes . 
+(trg)="54"> Vi har en sajt där vi förklarar vad seriemagasin verkligen handlar om . 
+================================
+(src)="62"> Uh , but then all the comic books started coming true . 
+(trg)="55"> Plötsligt började serierna inträffa i verkligheten . 
+================================
+(src)="63"> Oh , interesting . 
+(trg)="56"> Intressant . 
+================================
+(src)="64"> - " Geek Interpreter " , what' s that ? 
+(src)="65"> - That' s the title . 
+(trg)="57"> - Vad är " Den nördige tolken " ? 
+================================
+(src)="66"> What does it need a title for ? 
+(trg)="58"> - Det är titeln . 
+================================
+(src)="67"> Do people actually read your blog ? 
+(trg)="59"> - Läser nån din blogg ? 
+================================
+(src)="68"> - Where do you think our clients come from ? 
+(trg)="60"> - Det är den som ger oss klienter . 
+================================
+(src)="69"> - I have a website . 
+(src)="70"> In which you enumerate 240 different types of tobacco ash . 
+(src)="71"> Nobody' s reading your website . 
+(trg)="61"> På din hemsida listar du 240 olika sorters tobaksaska och ingen läser den . 
+================================
+(src)="72"> Right , then , dyed blonde hair , no obvious cause of death ... ... except for these speckles , whatever they are . 
+(trg)="62"> Håret är blekt . 
+(trg)="63"> Inga tecken på vad som orsakade döden , förutom fläckarna . 
+================================
+(src)="73"> Oh , for God' s sakes ! 
+(trg)="64"> Men snälla du ... ! 
+================================
+(src)="74"> - What ? 
+(trg)="65"> " Den spräckliga blondinen " ? 
+================================
+(src)="75"> - " The Speckled Blonde " ? 
+================================
+(src)="76"> They wouldn' t let us see Granddad when he was dead . 
+(trg)="66"> Vi fick inte se farfar när han var död . 
+(trg)="67"> Var han i himlen då ? 
+================================
+(src)="77"> Is that ' cause he' d gone to heaven ? 
+(src)="78"> People don' t go to heaven when they die . 
+(src)="79"> They' re taken to a special room and burned . 
+(trg)="68"> När människor dör flyttas de till ett rum och bränns upp . 
+================================
+(src)="80"> Sherlock ... 
+(src)="81"> There was a plane crash in DÃ¼sseldorf yesterday . 
+(trg)="69"> Ett plan kraschade i Düsseldorf i går . 
+================================
+(trg)="70"> Alla dog . 
+================================
+(src)="82"> - Everyone dead . 
+(src)="83"> - Suspected terrorist bomb . 
+(trg)="71"> - Vi ser faktiskt på nyheterna . 
+================================
+(src)="84"> - We do watch the news . 
+(trg)="72"> - Du bytte kanal . 
+================================
+(src)="85"> - You said " boring " and turned over . 
+(src)="86"> Well , according to the flight details , this man was checked in on board . 
+(trg)="73"> Den här mannen blev incheckad . 
+================================
+(src)="87"> Inside his coat he' s got a stub from his boarding pass ... ... napkins from the flight , even one of those special biscuits . 
+(trg)="74"> I fickan fanns boardingkort , servetter och en kaka från planet . 
+================================
+(src)="88"> Here' s his passport , stamped in Berlin airport . 
+(trg)="75"> Passet är stämplat på flygplatsen i Berlin . 
+================================
+(src)="89"> So this man should have died in a plane crash in Germany yesterday ... ... but instead he' s in a car boot in Southwark . 
+(src)="90"> Lucky escape . 
+(trg)="76"> Han borde ha dött i en flygplanskrasch , men ligger i en skuff i Southwark . 
+================================
+(src)="91"> - Any ideas ? 
+(trg)="77"> - Några uppslag ? 
+================================
+(src)="92"> - Eight so far . 
+(trg)="78"> - Åtta hittills . 
+================================
+(src)="93"> Okay , four ideas . 
+(trg)="79"> Fyra , förresten . 
+================================
+(src)="94"> Maybe two ideas . 
+(trg)="80"> Kanske bara två . 
+================================
+(src)="95"> No , no , no , don' t mention the unsolved ones . 
+(trg)="81"> - Ta inte upp ouppklarade fall . 
+================================
+(src)="96"> People want to know you' re human . 
+(trg)="82"> - Folk gillar att du är mänsklig . 
+================================
+(src)="97"> - Why ? 
+(src)="98"> - Because they' re interested . 
+(trg)="83"> - De är intresserade . 
+================================
+(src)="99"> - No , they' re not . 
+(src)="100"> Why are they ? 
+(trg)="84"> - Nej , varför det ? 
+================================
+(src)="101"> - Hmm , look at that . 
+(src)="102"> One thousand , eight hundred and ninety- five . 
+(trg)="85"> 1895 besökare . 
+================================
+(src)="103"> - Sorry , what ? 
+(src)="104"> - I reset that counter last night . 
+(trg)="86"> Jag nollställde i går . 
+================================
+(src)="105"> This blog has had nearly 2, 000 hits in the last eight hours . 
+(trg)="87"> Nästan 2000 träffar på åtta timmar . 
+================================
+(src)="106"> This is your living , Sherlock , not 240 different types of tobacco ash . 
+(trg)="88"> Det här är ditt levebröd . 
+(trg)="89"> Inte 240 olika sorters tobaksaska . 
+================================
+(src)="107"> 243 . 
+(trg)="90"> 243 . 
+================================
+(src)="108"> So what' s this one ? 
+(src)="109"> - " Bellybutton Murders " ? 
+(trg)="91"> - Ska det här kallas " Magstarka mord " ? 
+================================
+(src)="110"> - " The Navel Treatment " ? 
+(trg)="92"> - " Navelfördraget . " 
+================================
+(src)="111"> - There' s a lot of press outside , guys . 
+(trg)="93"> - Pressen är utanför . 
+(trg)="94"> - De bryr sig inte om oss . 
+================================
+(src)="112"> - Well , they won' t be interested in us . 
+(src)="113"> Yeah , that was before you were an internet phenomenon . 
+(trg)="95"> Det var innan ni blev ett nätfenomen . 
+================================
+(src)="114"> Couple of them specifically wanted photographs of you two . 
+(trg)="96"> Några bad uttryckligen om bilder på er . 
+================================
+(src)="115"> For God' s sake ! 
+(trg)="97"> För guds skull ! 
+================================
+(trg)="98"> John ! 
+================================
+(src)="116"> John . 
+(src)="117"> Cover your face and walk fast . 
+(trg)="99"> Dölj ansiktet och gå fort . 
+================================
+(src)="118"> Still it' s good for the public image , big case like this . 
+(trg)="100"> - Ett stort fall är bra för din image . 
+================================
+(src)="119"> I' m a private detective , the last thing I need is a public image ! 
+(trg)="101"> - En privatdetektiv vill inte ha nån . 
+================================
+(trg)="102"> LÄDERHATTEN OCH ROBIN 
+================================
+(trg)="103"> NÄTDETEKTIVEN SHERLOCK 
+================================
+(trg)="104"> NÄTFENOMENET SHERLOCK HOLMES 
+================================
+(trg)="105"> Hej . 
+================================
+(src)="120"> Hello . 
+(src)="121"> I think it' s time , don' t you ? 
+(trg)="106"> Tiden är inne nu , tycker du inte ? 
+================================
+(src)="122"> Oh ! 
+================================
+(src)="123"> Oh . 
+================================
+(src)="124"> Oh , dear ! 
+(trg)="107"> Kära nån ! 
+================================
+(src)="125"> Thumbs ? 
+(trg)="108"> Tummar ! 
+================================
+(src)="126"> The door was ... 
+(trg)="109"> Dörren var ... 
+================================
+(src)="127"> The door was ... 
+(trg)="110"> Den var ... 
+================================
+(src)="128"> Boys ! 
+(trg)="111"> Pojkar ! 
+================================
+(src)="129"> You' ve got another one ! 
+(trg)="112"> Det har kommit en till . 
+================================
+(src)="130"> Oh ! 
+================================
+(src)="131"> Tell us from the start , don' t be boring . 
+(trg)="113"> Ta det från början , men tråka inte ut mig . 
+================================
+(trg)="114"> 14 TIMMAR TIDIGARE 
+================================
+(src)="132"> Hey , are you okay ? 
+(trg)="115"> Hallå där ! 
+(trg)="116"> Hur är det ? 
+================================
+(src)="133"> Excuse me ! 
+(trg)="117"> Ursäkta ! 
+================================
+(src)="134"> Are you all right ? 
+(trg)="118"> Hur är det med er ? 
+================================
+(src)="135"> Sir , phone call for you . 
+(trg)="119"> Sir , ni har telefon . 
+================================
+(trg)="120"> - Carter . 
+================================
+(src)="136"> Carter . 
+(src)="137"> - Have you heard of Sherlock Holmes ? 
+(trg)="121"> - Känner ni till Sherlock Holmes ? 
+================================
+(src)="138"> - Who ? 
+(src)="139"> Well , you' re about to meet him now . 
+(trg)="122"> Ni får snart träffa honom . 
+================================
+(src)="140"> This is your case , it' s entirely up to you . 
+(trg)="123"> Fallet är ert , men låt mig ge er ett råd . 
+================================
+(src)="141"> This is just friendly advice , but give Sherlock five minutes ... ... on your crime scene and listen to everything that he has to say . 
+(trg)="124"> Ge Sherlock fem minuter på brottsplatsen och lyssna noga på honom . 
+================================
+(src)="142"> And as far as possible , try not to punch him . 
+(trg)="125"> Och försök att inte slå honom på käften . 
+================================
+(trg)="126"> Okej . 
+================================
+(src)="143"> Okay . 
+(src)="144"> Sir , this gentleman says he needs to speak to you . 
+(trg)="127"> - En herre vill tala med er . 
+================================
+(src)="145"> Yes , I know . 
+(src)="146"> Sherlock Holmes . 
+(trg)="128"> - Sherlock Holmes ! 
+================================
+(src)="147"> John Watson . 
+(trg)="129"> - John Watson . 
+================================
+(src)="148"> Are you set up for Wi- Fi ? 
+(trg)="130"> Har ni wifi- anslutning ? 
+================================
+(src)="149"> You realise this is a tiny bit humiliating ? 
+(trg)="131"> - Förstår du hur förödmjukande det är ? 
+================================
+(src)="150"> It' s okay , I' m fine . 
+(trg)="132"> - Det gör mig ingenting . 
+================================
+(src)="151"> Now , show me to the stream . 
+(trg)="133"> - Visa mig ån . 
+================================
+(src)="152"> I didn' t really mean for you . 
+(trg)="134"> - Jag menade inte för dig . 
+================================
+(src)="153"> Look , this is a six . 
+(trg)="135"> Det här är en sexa . 
+================================
+(src)="154"> There' s no point in my leaving the flat for anything less than a seven , we agreed . 
+(trg)="136"> Vi bestämde att jag bara åker ut om det är minst en sjua . 
+================================
+(src)="155"> Now , go back , show me the grass . 
+(trg)="137"> Backa , så att jag ser gräset . 
+================================
+(src)="156"> - When did we agree that ? 
+(trg)="138"> - När bestämde vi det ? 
+================================
+(src)="157"> - We agreed it yesterday . 
+(trg)="139"> - I går . 
+(trg)="140"> Stopp ! 
+================================
+(src)="158"> Stop . 
+(trg)="141"> - Närmare . 
+================================
+(src)="159"> Closer . 
+(src)="160"> I wasn' t even at home yesterday , I was in Dublin . 
+(trg)="142"> - Jag var i Dublin i går . 
+================================
+(src)="161"> It' s hardly my fault you weren' t listening . 
+(trg)="143"> Skyll dig själv som inte lyssnade . 
+================================
+(src)="162"> Shut up ! 
+(trg)="144"> - Håll tyst ! 
+================================
+(src)="163"> Do you just carry on talking when I' m away ? 
+(trg)="145"> - Pratar du fastän jag är borta ? 
+================================
+(src)="164"> I don' t know , how often are you away ? 
+(trg)="146"> - Vet inte , hur ofta är du det ? 
+================================
+(src)="165"> Now , show me the car that backfired . 
+(src)="166"> - It' s there . 
+(trg)="147"> - Visa mig bilen som baktände . 
+================================
+(src)="167"> - That' s the one that made the noise , yes ? 
+(trg)="148"> - Där . 
+(trg)="149"> - Och den orsakade knallen ? 
+================================
+(trg)="150"> - Ja . 
+================================
+(src)="168"> Yeah . 
+(src)="169"> If you' re thinking gunshot ... ... there wasn' t one . 
+(trg)="151"> Det förekom inget pistolskott . 
+================================
+(src)="170"> He wasn' t shot , he was killed by a single blow to the back of the head ... ... from a blunt instrument , which then magically disappeared , along with the killer . 
+(trg)="152"> Han dödades genom ett slag mot bakhuvudet med ett trubbigt föremål - 
+(trg)="153"> - som försvann lika mystiskt som mördaren . 
+================================
+(src)="171"> It' s got to be an eight , at least . 
+(trg)="154"> - Det är minst en åtta . 
+================================
+(src)="172"> You' ve got two more minutes , they want to know more about the driver . 
+(trg)="155"> - Jag vill veta mer om föraren . 
+================================
+(src)="173"> Oh , forget him , he' s an idiot . 
+(trg)="156"> Han är en idiot som tror sig vara misstänkt . 
+================================
+(src)="174"> - Why else would he think himself a suspect ? 
+(src)="175"> - I think he' s a suspect . 
+(trg)="157"> Han är misstänkt . 
+================================
+(src)="176"> - Pass me over . 
+(trg)="158"> - Lämna över . 
+================================
+(src)="177"> - All right , but there' s a mute button ... ... and I will use it . 
+(trg)="159"> - Jag stänger av ljudet om jag måste . 
+(trg)="160"> Håll upp den ! 
+================================
+(src)="178"> Up a bit ! 
+(src)="179"> I' m not talking from down here ! 
+(src)="180"> Okay . 
+(trg)="161"> Jag vill inte prata här nerifrån . 
+================================
+(src)="181"> Just take it , take it . 
+(src)="182"> Having driven to an isolated location and successfully committed a crime ... ... without a single witness , why would he then call the police and consult a detective ? 
+(trg)="162"> Varför skulle han ringa polisen om han lyckats utföra brottet utan vittnen ? 
+================================
+(src)="183"> Fair play ? 
+(src)="184"> He' s trying to be clever . 
+(src)="185"> It' s over- confidence . 
+(trg)="163"> Han tror att han är listig . 
+================================
+(src)="186"> Did you see him ? 
+(trg)="164"> Såg ni honom ? 
+================================
+(src)="187"> Morbidly obese , the undisguised halitosis of a single man living on his own . 
+(trg)="165"> Sjukligt fet och med en ensamstående mans dåliga andedräkt . 
+================================
+(src)="188"> The right sleeve of an internet porn addict ... ... and the breathing pattern of an untreated heart condition ... ... low self- esteem , tiny IQ and a limited life expectancy . 
+(trg)="166"> Förmodade hjärtbesvär , låg IQ och kort förväntad livslängd . 
+================================
+(src)="189"> And you think he' s an audacious criminal mastermind ? 
+(trg)="167"> Låter det som en mästerskurk ? 
+================================
+(src)="190"> - Don' t worry , this is just stupid . 
+(src)="191"> - What did you say ? 
+(trg)="168"> - Ingen fara , det är bara dumheter . 
+================================
+(src)="192"> Heart what ? 
+(src)="193"> - Go to the stream . 
+(trg)="169"> Gå ner till vattnet . 
+================================
+(src)="194"> - What' s in the stream ? 
+(trg)="170"> Gör det bara . 
+================================
+(src)="195"> - Go and see . 
+(src)="196"> - Sherlock ! 
+(trg)="171"> - Sherlock ! 
+================================
+(src)="197"> You weren' t answering your doorbell . 
+(trg)="172"> Det ringde på din dörr . 
+================================
+(src)="198"> His room' s through the back , get him some clothes . 
+(trg)="173"> - Hämta kläder i hans rum . 
+(trg)="174"> - Vilka är ni ? 
+================================
+(src)="199"> - Who the hell are you ? 
+(src)="200"> - Sorry , Mr Holmes ... 
+(src)="201"> - Sherlock , what' s going on ? 
+(trg)="175"> - Mr Holmes , vi ska hämta er . 
+================================
+(src)="202"> - You' re coming with us . 
+(src)="203"> I' ve lost him . 
+(trg)="176"> - Han bara försvann . 
+================================
+(src)="204"> I don' t know what ... 
+(src)="205"> - Dr Watson ? 
+(src)="206"> - Yeah . 
+(trg)="177"> - Dr Watson , till er . 
+================================
+(src)="207"> - It' s for you . 
+(src)="208"> - Okay , thanks . 
+(src)="209"> Uh , no , sir , the helicopter . 
+(trg)="178"> Helikoptern , alltså . 
+================================
+(src)="210"> Please , Mr Holmes , where you' re going you' il want to be dressed . 
+(trg)="179"> Mr Holmes , ni vill inte komma oklädd dit ni ska . 
+================================
+(trg)="180"> KOSTYM : 
+================================
+(trg)="181"> 700 PUND 
+================================
+(trg)="182"> OBEVÄPNAD 
+================================
+(trg)="183"> VÄLKLIPPTA NAGLAR 
+================================
+(trg)="184"> KONTORSANSTÄLLD 
+================================
+(trg)="185"> HÖGERHÄNT 
+================================
+(trg)="186"> JOBBAR INOMHUS 
+================================
+(trg)="187"> LITEN HUND 
+================================
+(trg)="188"> TVÅ SMÅ HUNDAR 
+================================
+(trg)="189"> TRE SMÅ HUNDAR 
+================================
+(src)="211"> I know exactly where I' m going . 
+(trg)="190"> Jag vet var jag ska . 
+================================
+(src)="212"> - Are you wearing any pants ? 
+(src)="213"> - No . 
+(trg)="191"> - Har du kalsonger på dig ? 
+================================
+(src)="214"> Okay . 
+(trg)="192"> - Nej . 
+================================
+(src)="215"> At Buckingham Palace . 
+(src)="216"> Right . 
+(trg)="193"> Buckingham Palace , alltså . 
+================================
+(src)="217"> I am seriously fighting an impulse to steal an ashtray . 
+(trg)="194"> Jag får en otrolig lust att stjäla ett askfat . 
+================================
+(src)="218"> What are we doing here , Sherlock ? 
+(trg)="195"> - Vad gör vi här ? 
+(trg)="196"> Allvarligt talat . 
+================================
+(src)="219"> Seriously , what ? 
+(trg)="197"> - Jag vet inte . 
+================================
+(src)="220"> - I don' t know . 
+(src)="221"> - Here to see the Queen ? 
+(trg)="198"> - Ska vi träffa drottningen ? 
+================================
+(src)="222"> Oh , apparently , yes . 
+(trg)="199"> - Tydligen . 
+================================
+(src)="223"> Just once can you two behave like grownups ? 
+(trg)="200"> - Kan ni bete er som vuxna nån gång ? 
+================================
+(src)="224"> We solve crimes , I blog about it and he forgets his pants . 
+(trg)="201"> - Jag bloggar och han är kalsonglös . 
+================================
+(src)="225"> - I wouldn' t hold out too much hope . 
+(trg)="202"> - Hoppas inte på för mycket . 
+================================
+(src)="226"> - I was in the middle of a case , Mycroft . 
+(src)="227"> What , the hiker and the backfire ? 
+(trg)="203"> - Jag var mitt uppe i ett fall . 
+================================
+(src)="228"> I glanced at the police report , a bit obvious , surely ? 
+(trg)="204"> - Det hela var ganska uppenbart . 
+================================
+(src)="229"> - Transparent . 
+(trg)="205"> - Genomskinligt . 
+================================
+(src)="230"> - Time to move on , then . 
+================================
+(src)="231"> We are in Buckingham Palace , at the very heart of the British nation . 
+(trg)="206"> Vi är i Buckingham Palace , nationens hjärta . 
+================================
+(src)="232"> Sherlock Holmes , put your trousers on ! 
+(trg)="207"> Sherlock Holmes , ta på dig byxorna ! 
+================================
+(src)="233"> - What for ? 
+(trg)="208"> Tänk på din klient . 
+================================
+(src)="234"> - Your client . 
+(trg)="209"> - Och min klient är ? 
+================================
+(src)="235"> And my client is ? 
+(src)="236"> Illustrious , in the extreme . 
+(trg)="210"> - Framstående , i allra högsta grad . 
+================================
+(src)="237"> And remaining , I have to inform you , entirely anonymous . 
+(trg)="211"> Och måste förbli fullständigt anonym . 
+================================
+(src)="238"> - Mycroft . 
+(trg)="212"> - Mycroft ! 
+(trg)="213"> - Harry ! 
+================================
+(src)="239"> - Harry . 
+(src)="240"> May I just apologise for the state of my little brother ? 
+(trg)="214"> Ursäkta min lillebrors yttre . 
+================================
+(src)="241"> A full- time occupation , I imagine . 
+(trg)="215"> Ett heltidsjobb den där . 
+================================
+(src)="242"> And this must be Dr John Watson , formerly of the Fifth Northumberland Fusiliers ? 
+(trg)="216"> - Ni måste vara dr John Watson , en kronans gosse . 
+================================
+(src)="243"> Hello , yes . 
+(src)="244"> My employer is a tremendous fan of your blog . 
+(trg)="217"> Min arbetsgivare är mycket förtjust i er blogg . 
+================================
+(src)="245"> Your employer ? 
+(src)="246"> Particularly enjoyed the one about the aluminium crutch . 
+(src)="247"> Thank you . 
+(trg)="218"> Särskilt inlägget om aluminiumkryckan . 
+================================
+(src)="248"> And Mr Holmes the younger , you look taller in your photographs . 
+(trg)="219"> - Och så mr Holmes den yngre ... 
+(trg)="220"> - Ni ser längre ut på bild . 
+================================
+(src)="249"> I take the precaution of a good coat and a short friend . 
+(trg)="221"> - Tack vare en bra rock och en kort vän . 
+================================
+(src)="250"> Mycroft , I don' t do anonymous clients . 
+(trg)="222"> Jag betackar mig för anonyma klienter . 
+================================
+(src)="251"> I' m used to mystery at one end of my cases ... ... both ends is too much work . 
+(trg)="223"> En oklarhet per fall är nog . 
+================================
+(src)="252"> Good morning . 
+(trg)="224"> - Adjö . 
+================================
+(src)="253"> This is a matter of national importance . 
+(trg)="225"> - Det är en nationell angelägenhet . 
+================================
+(src)="254"> Grow up ! 
+(src)="255"> - Get off my sheet ! 
+(trg)="226"> - Flytta på dig ! 
+================================
+(src)="256"> - Or what ? 
+(trg)="227"> Annars går jag ändå . 
+================================
+(src)="257"> - Or I' il just walk away . 
+(src)="258"> - I' il let you . 
+(trg)="228"> - Så gärna . 
+================================
+(src)="259"> Boys , please . 
+(trg)="229"> - Inte här . 
+================================
+(src)="260"> Not here . 
+(trg)="230"> - Vem är min klient ? 
+================================
+(src)="261"> Who is my client ? 
+(src)="262"> Take a look at where you' re standing and make a deduction . 
+(trg)="231"> - Se dig omkring och dra din slutsats . 
+================================
+(src)="263"> You are to be engaged by the highest in the land . 
+(src)="264"> Now , for God' s sake ! 
+(trg)="232"> Du ska anlitas av nationens förnämsta , så för guds skull ... 
+================================
+(src)="265"> Put your clothes on ! 
+(trg)="233"> Klä på dig ! 
+================================
+(src)="266"> I' il be mother . 
+(trg)="234"> - Jag häller upp . 
+================================
+(src)="267"> And there is a whole childhood in a nutshell . 
+(trg)="235"> - Lika moderlig som alltid . 
+================================
+(src)="268"> My employer has a problem . 
+(trg)="236"> Min arbetsgivare har ett problem . 
+================================
+(src)="269"> A matter has come to light of an extremely delicate ... ... and potentially criminal nature and in this hour of need , dear brother ... 
+(trg)="237"> En synnerligen känslig situation som kan komma att föranleda brott . 
+(trg)="238"> I denna nödens stund nämndes ditt namn . 
+================================
+(src)="270"> - ... your name has arisen . 
+(src)="271"> - Why ? 
+(src)="272"> We have a police force of sorts , even a marginally secret service . 
+(trg)="239"> - Ni har polis och underrättelsetjänst . 
+================================
+(src)="273"> Why come to me ? 
+(src)="274"> People do come to you for help , don' t they , Mr Holmes ? 
+(trg)="240"> - Folk ber er om hjälp , inte sant ? 
+================================
+(src)="275"> Not to date anyone with a navy . 
+(trg)="241"> - Inte folk med egna flottor . 
+================================
+(src)="276"> This is a matter of the highest security and therefore of trust . 
+(trg)="242"> - Det är en fråga om tillit . 
+================================
+(src)="277"> - You don' t trust your own secret service ? 
+(trg)="243"> - Är inte underrättelsetjänsten betrodd ? 
+================================
+(src)="278"> - Naturally not . 
+(src)="279"> They all spy on people for money . 
+(trg)="244"> - Nej , de spionerar mot betalning . 
+================================
+(src)="280"> - I do think we have a timetable . 
+(trg)="245"> - Vi bör nog skynda på . 
+(trg)="246"> - Naturligtvis . 
+================================
+(src)="281"> - Yes , of course . 
+================================
+(src)="282"> What do you know about this woman ? 
+(trg)="247"> Vad vet du om den här kvinnan ? 
+================================
+(src)="283"> Nothing whatsoever . 
+(trg)="248"> - Ingenting alls . 
+================================
+(src)="284"> Then you should be paying more attention . 
+(trg)="249"> - Då är du för ouppmärksam . 
+================================
+(src)="285"> She' s been at the centre of two political scandals in the last year ... ... and recently ended the marriage of a prominent novelist ... ... by having an affair with both participants separately . 
+(trg)="250"> Hon har orsakat två politiska skandaler - 
+(trg)="251"> - och en lovande författares skilsmässa - 
+(trg)="252"> - genom att ha en romans med båda parterna . 
+================================
+(src)="286"> You know I don' t concern myself with trivia . 
+(trg)="253"> Skvaller intresserar mig inte . 
+================================
+(src)="287"> Who is she ? 
+(trg)="254"> Vem är hon ? 
+================================
+(src)="288"> Irene Adler . 
+(trg)="255"> Irene Adler . 
+================================
+(src)="289"> Professionally known as The Woman . 
+(src)="290"> Professionally ? 
+(trg)="256"> Går under yrkesnamnet " Kvinnan " . 
+================================
+(src)="291"> There are many names for what she does , she prefers " dominatrix " . 
+(trg)="257"> Det finns många ord som beskriver hennes yrke . 
+(trg)="258"> Hon föredrar " dominatrix " . 
+================================
+(src)="292"> - Dominatrix . 
+(trg)="259"> - Dominatrix ... 
+================================
+(src)="293"> - Don' t be alarmed . 
+(trg)="260"> - Bli inte rädd nu . 
+================================
+(src)="294"> - It' s to do with sex . 
+(trg)="261"> Det handlar om sex . 
+================================
+(src)="295"> - Sex doesn' t alarm me . 
+(trg)="262"> - Det är inget som skrämmer mig . 
+================================
+(src)="296"> How would you know ? 
+(trg)="263"> - Vad vet du om det ? 
+================================
+(src)="297"> She provides , shall we say , recreational scolding ... ... for those who enjoy that sort of thing and are prepared to pay for it . 
+(trg)="264"> Hon erbjuder " uppläxning för nöjes skull " åt dem som vill betala för det . 
+================================
+(src)="298"> These are all from her website . 
+(trg)="265"> Bilderna är tagna från hemsidan . 
+================================
+(src)="299"> And I assume this Adler woman has some compromising photographs ? 
+(trg)="266"> - Så hon har komprometterande bilder ? 
+(trg)="267"> - Ni är snabbtänkt . 
+================================
+(src)="300"> - You' re very quick , Mr Holmes . 
+(src)="301"> - Hardly a difficult deduction . 
+(trg)="268"> Det är inte svårt att räkna ut . 
+================================
+(src)="302"> Photographs of whom ? 
+(trg)="269"> Fotografier av vem ? 
+================================
+(src)="303"> A person of significance to my employer . 
+(src)="304"> We' d prefer not to say any more at this time . 
+(trg)="270"> En person som betyder mycket för min arbetsgivare . 
+================================
+(src)="305"> You can' t tell us anything ? 
+(trg)="271"> Kan ni inte avslöja någonting ? 
+================================
+(src)="306"> I can tell you it' s a young person . 
+(trg)="272"> Det är en ung person . 
+================================
+(src)="307"> A young female person . 
+(trg)="273"> En ung kvinna . 
+================================
+(src)="308"> - How many photographs ? 
+(trg)="274"> - Hur många bilder ? 
+================================
+(src)="309"> - A considerable number , apparently . 
+(trg)="275"> - En ansenlig mängd . 
+================================
+(src)="310"> Do Miss Adler and this young female person appear in these photographs together ? 
+(src)="311"> Yes , they do . 
+(src)="312"> And I assume in a number of compromising scenarios ? 
+(trg)="276"> Ses miss Adler och den unga kvinnan i ett antal blamerande situationer ? 
+================================
+(src)="313"> An imaginative range , we are assured . 
+(trg)="277"> - På alla upptänkliga sätt , tydligen . 
+================================
+(src)="314"> John , you might want to put that cup back in your saucer now . 
+(trg)="278"> - Du kan ställa ner koppen nu , John . 
+================================
+(src)="315"> - Can you help us , Mr Holmes ? 
+(src)="316"> - How ? 
+(trg)="279"> - Kan ni hjälpa oss och ta er an fallet ? 
+================================
+(src)="317"> - Will you take the case ? 
+(trg)="280"> - Vilket fall ? 
+================================
+(src)="318"> - What case ? 
+(src)="319"> Pay her , now and in full . 
+(trg)="281"> Betala det hon begär . 
+================================
+(src)="320"> As Miss Adler remarks in her masthead , know when you are beaten . 
+(trg)="282"> Som miss Adler skriver : 
+(trg)="283"> " Inse när du är slagen . " 
+================================
+(src)="321"> She doesn' t want anything . 
+(trg)="284"> Hon begär ingenting . 
+================================
+(src)="322"> She got in touch , she informed us that the photographs existed ... ... she indicated that she had no intention to use them to extort either money or favour . 
+(trg)="285"> Hon informerade oss om fotografierna - 
+(trg)="286"> - och lät förstå att hon inte avsåg att byta dem mot pengar eller tjänster . 
+================================
+(src)="323"> Oh , a power play . 
+(src)="324"> A power play with the most powerful family in Britain . 
+(trg)="287"> Vilken maktuppvisning gentemot nationens mest inflytelserika familj . 
+================================
+(src)="325"> Now , that is a dominatrix . 
+(src)="326"> This is getting rather fun , isn' t it ? 
+(src)="327"> Sherlock ... 
+(trg)="288"> - Nu börjar det bli roligt ! 
+================================
+(src)="328"> - Where is she ? 
+(trg)="289"> Var är hon ? 
+================================
+(src)="329"> - In London , currently . 
+(trg)="290"> - I London . 
+================================
+(src)="330"> - She' s staying ... 
+(src)="331"> - Text me the details . 
+(src)="332"> I' il be in touch by the end of the day . 
+(trg)="291"> Jag hör av mig senare i dag . 
+================================
+(src)="333"> - Do you think you' il have news by then ? 
+(src)="334"> - No , I think I' il have the photographs . 
+(trg)="292"> Vid det laget har jag fotografierna . 
+================================
+(src)="335"> One can only hope you' re as good as you seem to think . 
+(trg)="293"> Hoppas ni är lika bra som ni tycks tro . 
+================================
+(trg)="294"> HUNDVÄN , PRIVATSKOLA , RÖKFRI , WALESISKT PÅBRÅ , TEDRICKARE 
+================================
+(src)="336"> - I' il need some equipment , of course . 
+(src)="337"> - Anything you require , I' il have it sent over . 
+(trg)="295"> Jag behöver viss utrustning . 
+================================
+(src)="338"> - Can I have a box of matches ? 
+(trg)="296"> En ask tändstickor , tack . 
+================================
+(src)="339"> - I' m sorry ? 
+(src)="340"> Or your cigarette lighter , either will do . 
+(trg)="297"> Eller cigarettändaren . 
+================================
+(src)="341"> - I don' t smoke . 
+(trg)="298"> - Jag röker inte . 
+================================
+(src)="342"> - I know you don' t , but your employer does . 
+(trg)="299"> - Nej , men er arbetsgivare gör det . 
+================================
+(src)="343"> We have kept a lot of people successfully in the dark about this little fact , Mr Holmes . 
+(trg)="300"> Vi har hållit den saken hemlig för väldigt många människor . 
+================================
+(src)="344"> I' m not the Commonwealth . 
+(trg)="301"> - Jag är inte gemene man . 
+================================
+(src)="345"> And that' s as modest as he gets . 
+(src)="346"> Pleasure to meet you . 
+(trg)="302"> - Blygsammare än så blir han inte . 
+================================
+(src)="347"> Laters ! 
+(trg)="303"> Tjingeling ! 
+================================
+(src)="348"> Okay , the smoking , how did you know ? 
+(trg)="304"> Hur visste du det där med rökningen ? 
+================================
+(src)="349"> The evidence was right under your nose , John , as ever you see but do not observe . 
+(trg)="305"> Som alltid ser du utan att observera . 
+================================
+(src)="350"> - Observe what ? 
+(trg)="306"> - Observera vad ? 
+================================
+(src)="351"> - The ashtray . 
+(trg)="307"> - Askfatet . 
+================================
+(src)="352"> Kate ? 
+(trg)="308"> Kate ! 
+================================
+(src)="353"> We' re going to have a visitor . 
+(trg)="309"> Jag får snart besök . 
+================================
+(src)="354"> I' il need a bit of time to get ready . 
+(trg)="310"> - Det tar en stund att bli klar . 
+================================
+(src)="355"> A long time ? 
+(trg)="311"> - En lång stund ? 
+================================
+(src)="356"> Ages . 
+(trg)="312"> En evighet . 
+================================
+(src)="357"> What are you doing ? 
+(trg)="313"> - Vad gör du ? 
+================================
+(src)="358"> I' m going into battle , John , I need the right armour . 
+(trg)="314"> - Provar ut rätt rustning inför striden . 
+(trg)="315"> Nej ... 
+================================
+(src)="359"> No . 
+(src)="360"> Nah . 
+(trg)="316"> - Nej ... 
+================================
+(src)="361"> Works for me . 
+(src)="362"> Everything works on you . 
+(trg)="317"> - Funkar för mig . 
+================================
+(src)="363"> - So , what' s the plan ? 
+(trg)="318"> - Vad är planen ? 
+================================
+(src)="364"> - We know her address . 
+(trg)="319"> - Vi vet adressen . 
+================================
+(src)="365"> - We just ring her doorbell ? 
+(trg)="320"> - Ska vi bara ringa på ? 
+================================
+(src)="366"> - Exactly . 
+(trg)="321"> - Precis . 
+================================
+(src)="367"> Just here , please . 
+(src)="368"> - You didn' t even change your clothes . 
+(trg)="322"> - Du bytte aldrig kläder . 
+================================
+(src)="369"> - Then it' s time to add a splash of colour . 
+(trg)="323"> - Men det behövs lite färg . 
+================================
+(src)="370"> - Are we here ? 
+(trg)="324"> - Är vi framme ? 
+================================
+(src)="371"> - Two streets away , but this will do . 
+(src)="372"> - For what ? 
+(trg)="325"> - Nästan , men det duger . 
+================================
+(src)="373"> - Punch me in the face . 
+(trg)="326"> Slå mig ! 
+================================
+(src)="374"> Shade ? 
+(trg)="327"> - Vilken nyans ? 
+================================
+(src)="375"> Blood . 
+(trg)="328"> - Blodrött . 
+(trg)="329"> - Slå dig ? 
+================================
+(src)="376"> Punch you ? 
+(src)="377"> Yes , punch me , in the face . 
+(trg)="330"> - Hörde du inte vad jag sa ? 
+================================
+(src)="378"> Didn' t you hear me ? 
+(src)="379"> I always hear " punch me in the face " when you' re speaking , but it' s usually subtext . 
+(trg)="331"> Allt du säger blir till " slå mig " i mina öron . 
+================================
+(src)="380"> Oh , for God' s sakes ! 
+================================
+(src)="381"> Thank you , that was , that was ... 
+(trg)="332"> Tack , det var ... 
+================================
+(src)="382"> Okay , I think we' re done now , John . 
+(trg)="333"> - Det räcker nu , John . 
+================================
+(src)="383"> You want to remember Sherlock , I was a soldier . 
+(trg)="334"> - Jag var soldat . 
+(trg)="335"> Jag har dödat folk ! 
+================================
+(src)="384"> I killed people . 
+(trg)="336"> - Du var läkare ! 
+================================
+(src)="385"> - You were a doctor ! 
+(trg)="337"> - Jag hade dåliga dagar . 
+================================
+(src)="386"> - I had bad days ! 
+================================
+(src)="387"> - What are you going to wear ? 
+(trg)="338"> - Vad tar du på dig ? 
+================================
+(src)="388"> - My battledress . 
+(trg)="339"> - Fältuniformen . 
+================================
+(src)="389"> Ooh , lucky boy . 
+(trg)="340"> Vilken tur han har . 
+================================
+(src)="390"> Hello ? 
+(trg)="341"> - Hallå ? 
+================================
+(src)="391"> Oh , sorry to disturb you . 
+(trg)="342"> - Ursäkta att jag stör ... 
+================================
+(src)="392"> I' ve just been attacked . 
+(trg)="343"> Jag har blivit överfallen . 
+================================
+(src)="393"> Um , and I think they , they took my wallet and my phone . 
+(trg)="344"> De tog min plånbok och min telefon . 
+================================
+(src)="394"> Please , could you help me ? 
+(trg)="345"> - Kan ni hjälpa mig ? 
+================================
+(src)="395"> I can phone the police if you want . 
+(trg)="346"> - Jag kan ringa polisen . 
+================================
+(src)="396"> Thank you , thank you . 
+(trg)="347"> Tack , snälla . 
+================================
+(src)="397"> Could you , please ? 
+(src)="398"> Would you , would you mind if I just waited here , just until they come ? 
+(trg)="348"> Jag väntar här tills de kommer . 
+================================
+(src)="399"> Thank you , thank you so much . 
+(trg)="349"> Tack så mycket . 
+================================
+(src)="400"> Thank you . 
+(trg)="350"> Tack . 
+================================
+(src)="401"> I saw it all happen . 
+(trg)="351"> Jag såg allt . 
+================================
+(src)="402"> It' s okay , I' m a doctor . 
+(trg)="352"> Jag är läkare . 
+================================
+(src)="403"> - Now , have you got a first aid kit ? 
+(src)="404"> - In the kitchen . 
+(trg)="353"> - Har ni en förbandslåda ? 
+================================
+(src)="405"> Please . 
+(src)="406"> - Thank you . 
+(trg)="354"> - I köket . 
+================================
+(src)="407"> - Thank you . 
+================================
+(src)="408"> Hello , sorry to hear that you' ve been hurt . 
+(trg)="355"> Jag beklagar missödet . 
+================================
+(src)="409"> - I don' t think Kate caught your name ? 
+(trg)="356"> Kate uppfattade inte ert namn . 
+================================
+(src)="410"> - I' m so sorry , I' m ... 
+(trg)="357"> Förlåt mig , jag heter ... 
+================================
+(src)="411"> Oh , it' s always hard to remember an alias when you' ve had a fright . 
+(trg)="358"> Man glömmer lätt sitt alias när man blir chockad . 
+================================
+(src)="412"> Isn' t it ? 
+================================
+(src)="413"> There now . 
+(src)="414"> We' re both defrocked . 
+(trg)="359"> Så där , nu är vi båda demaskerade . 
+================================
+(src)="415"> - Mr Sherlock Holmes . 
+(trg)="360"> - Mr Sherlock Holmes . 
+================================
+(src)="416"> - Miss Adler , I presume ? 
+(trg)="361"> - Miss Adler , förmodar jag . 
+================================
+(src)="417"> Look at those cheekbones . 
+(trg)="362"> Vilka kindben ... 
+================================
+(src)="418"> I could cut myself slapping that face . 
+(trg)="363"> Jag kan få skärsår av att örfila er . 
+================================
+(src)="419"> Would you like me to try ? 
+(trg)="364"> Vill ni att jag ska prova ? 
+================================
+(src)="420"> Right , this should do it . 
+(trg)="365"> Det här gör susen ... 
+================================
+(src)="421"> I' ve missed something , haven' t I ? 
+(trg)="366"> Jag tycks ha missat nåt . 
+================================
+(src)="422"> Please , sit down . 
+(trg)="367"> Slå er ner . 
+================================
+(src)="423"> Or if you' d like some tea , I can call the maid . 
+(trg)="368"> Jag kan se till att få in lite te . 
+================================
+(src)="424"> - I had some at the Palace . 
+(src)="425"> - I know . 
+(trg)="369"> - Jag drack te på slottet . 
+================================
+(src)="426"> Clearly . 
+(trg)="370"> - Jag vet . 
+================================
+(src)="427"> I had a tea , too , at the Palace . 
+(src)="428"> If anyone' s interested . 
+(trg)="371"> Jag drack också te på slottet , om nån vill veta . 
+================================
+(trg)="372"> GÅRDAGENS SKJORTA , RAKAPPARAT , DEJT IKVÄLL 
+================================
+(trg)="373"> GLÖMT RINGA SYSTERN , UTE OCH SVIRAT MED STAMFORD 
+================================
+(src)="429"> Do you know the big problem with a disguise , Mr Holmes ? 
+(src)="430"> However hard you try , it' s always a self- portrait . 
+(trg)="374"> Problemet med förklädnader är att de alltid speglar ens sanna jag . 
+================================
+(src)="431"> You think I' m a vicar with a bleeding face ? 
+(trg)="375"> - Ni tror alltså att jag är kyrkoherde . 
+================================
+(src)="432"> No , I think you' re damaged , delusional and believe in a higher power . 
+(trg)="376"> - Nej , men ni tror på en högre makt . 
+================================
+(src)="433"> In your case , it' s yourself . 
+(trg)="377"> I ert fall - er själv . 
+================================
+(src)="434"> And somebody loves you . 
+(trg)="378"> Nån älskar er . 
+================================
+(src)="435"> If I had to punch that face , I' d avoid your nose and teeth too . 
+(trg)="379"> Om jag skulle slå er skulle jag också låta bli näsa och tänder . 
+================================
+(src)="436"> Could you put something on , please ? 
+(trg)="380"> Kan ni ta på er nåt ? 
+================================
+(src)="437"> - Er , anything at all , a napkin ? 
+(trg)="381"> En servett kanske ? 
+================================
+(src)="438"> - Why ? 
+(src)="439"> Are you feeling exposed ? 
+(trg)="382"> - Känns det besvärande ? 
+================================
+(src)="440"> - I don' t think John knows where to look . 
+(trg)="383"> - John vet inte var han ska titta . 
+================================
+(src)="441"> - No , I think he knows exactly where . 
+(trg)="384"> Han vet precis var han ska titta . 
+================================
+(src)="442"> I' m not sure about you . 
+(trg)="385"> Er är jag däremot osäker på . 
+================================
+(src)="443"> If I want to look at naked women , I borrow John' s laptop . 
+(src)="444"> - You do borrow my laptop . 
+(trg)="386"> Om jag vill se nakna kvinnor lånar jag Johns dator . 
+================================
+(src)="445"> - I confiscate it . 
+(src)="446"> Well , never mind , we' ve got better things to talk about . 
+(trg)="387"> Vi har bättre saker att prata om . 
+================================
+(src)="447"> Now , tell me , I need to know ... 
+(trg)="388"> Nu vill jag veta ... 
+================================
+(src)="448"> How was it done ? 
+(src)="449"> What ? 
+(trg)="389"> - Hur gick det till ? 
+================================
+(trg)="390"> - Vad ? 
+================================
+(src)="450"> The hiker with the bashed- in head , how was he killed ? 
+(trg)="391"> Den ihjälslagne vandraren . 
+(trg)="392"> Hur dog han ? 
+================================
+(src)="451"> That' s not why I' m here . 
+(trg)="393"> - Det är inte därför jag är här . 
+================================
+(src)="452"> No , no , no , you' re here for the photographs , but that' s never going to happen . 
+(src)="453"> And since we' re here just chatting anyway ... 
+(trg)="394"> - Nej , ni är här för att hämta bilderna . 
+================================
+(src)="454"> That story' s not been on the news yet , how do you know about it ? 
+(trg)="395"> - Hur kan ni veta nåt om fallet ? 
+================================
+(src)="455"> I know one of the policemen . 
+(src)="456"> Well , I know what he likes . 
+(src)="457"> Oh ... 
+(trg)="396"> - Jag vet en del om en av poliserna . 
+================================
+(src)="458"> And you like policemen ? 
+(trg)="397"> Så ni gillar poliser ? 
+================================
+(src)="459"> I like detective stories . 
+(src)="460"> And detectives . 
+(trg)="398"> Jag gillar kriminalhistorier , och detektiver . 
+================================
+(src)="461"> Brainy' s the new sexy . 
+(src)="462"> Position of the car ... 
+(trg)="399"> Skarpsinnighet är sexigt . 
+================================
+(src)="463"> Uh , the position of the car ... ... relative to the hiker at the time of the backfire , that and the fact ... ... that the death blow was to the back of the head , that' s all you need to know . 
+(trg)="400"> Bilens position och faktumet att mannen träffades i bakhuvudet säger allt . 
+================================
+(src)="464"> - Okay , tell me , how was he murdered ? 
+(trg)="401"> - Hur blev han mördad ? 
+(trg)="402"> - Det blev han inte . 
+================================
+(src)="465"> - He wasn' t . 
+(src)="466"> - You don' t think it was murder ? 
+(src)="467"> - I know it wasn' t . 
+(trg)="403"> Hur vet ni att det inte var mord ? 
+================================
+(src)="468"> How ? 
+(src)="469"> The same way that I know the victim was an excellent sportsman ... ... recently returned from foreign travel ... ... and that the photographs I' m looking for are in this room . 
+(trg)="404"> Jag vet att offret varit utomlands och att bilderna finns i rummet . 
+================================
+(trg)="405"> - Hur ? 
+================================
+(src)="470"> Okay , but how ? 
+(src)="471"> - So , they are in this room . 
+(trg)="406"> - De är alltså i rummet ? 
+================================
+(trg)="407"> Tack . 
+================================
+(src)="472"> - Thank you . 
+(src)="473"> John , man the door , let no one in . 
+(trg)="408"> John , bevaka dörren . 
+================================
+(src)="474"> Two men alone in the countryside , several yards apart and one car . 
+(trg)="409"> Två män ensamma på landsbygden och bara en bil . 
+================================
+(src)="475"> Oh , I thought you were looking for the photos now . 
+(trg)="410"> - Skulle ni inte leta efter bilderna ? 
+================================
+(src)="476"> No , no , looking takes ages , I' m just going to find them ... ... but you' re moderately clever and we' ve got a moment , so let' s pass the time . 
+(trg)="411"> - De hittar jag ändå . 
+(trg)="412"> Ni är någorlunda intelligent , så låt oss fördriva tiden . 
+================================
+(src)="477"> Two men , a car and nobody else . 
+(trg)="413"> Två män och en bil . 
+================================
+(src)="478"> Driver' s trying to fix his engine . 
+(src)="479"> Getting nowhere . 
+(trg)="414"> Föraren försöker få igång motorn , utan resultat . 
+================================
+(src)="480"> And the hiker is taking a moment , looking at the sky . 
+(trg)="415"> Vandraren stannar och spanar mot skyn . 
+================================
+(src)="481"> Watching the birds ? 
+(trg)="416"> På fåglarna , kanske ? 
+================================
+(src)="482"> Any moment now , something' s going to happen . 
+(src)="483"> - What ? 
+(trg)="417"> - Snart händer nåt - vad ? 
+================================
+(src)="484"> - The hiker' s going to die . 
+(trg)="418"> - Vandraren dör . 
+================================
+(src)="485"> No , that' s the result . 
+(src)="486"> What' s going to happen ? 
+(trg)="419"> Nej , det är följden av det hela . 
+================================
+(src)="487"> - I don' t understand . 
+(trg)="420"> - Jag förstår inte . 
+================================
+(src)="488"> - Oh , well , try to . 
+(trg)="421"> - Försök ! 
+================================
+(src)="489"> Why ? 
+(src)="490"> Because you cater to the whims of the pathetic ... ... and take your clothes off to make an impression . 
+(trg)="422"> Ni klär av dig naken för att imponera . 
+================================
+(src)="491"> Stop boring me and think . 
+(src)="492"> It' s the new sexy . 
+(trg)="423"> Tänk efter i stället - det är " sexigt " . 
+================================
+(src)="493"> - The car is going to backfire . 
+(trg)="424"> - Bilen får baktändning . 
+================================
+(src)="494"> - There' s going to be a loud noise . 
+(src)="495"> - So what ? 
+(trg)="425"> - Och orsakar en kraftig smäll . 
+================================
+(src)="496"> - Oh , noises are important . 
+(src)="497"> Noises can tell you everything . 
+(trg)="426"> Ljud är viktiga och kan avslöja mycket . 
+================================
+(src)="498"> For instance ... 
+(trg)="427"> Till exempel ... 
+================================
+(trg)="428"> Tack . 
+================================
+(src)="499"> Thank you . 
+(src)="500"> On hearing a smoke alarm , a mother would look towards her child . 
+(trg)="429"> När ett brandlarm går söker modern sitt barn med blicken . 
+================================
+(src)="501"> Amazing how fire exposes our priorities . 
+(trg)="430"> En brand avslöjar vad vi värnar om . 
+================================
+(src)="502"> I really hope you don' t have a baby in here . 
+(trg)="431"> Ni har väl inget barn här inne ? 
+================================
+(src)="503"> All right , John , you can turn it off now . 
+(trg)="432"> - Du kan stänga av det , John . 
+================================
+(src)="504"> - I said you can turn it off now . 
+(trg)="433"> - Stäng av det ! 
+(trg)="434"> - Ett ögonblick ! 
+================================
+(src)="505"> - Give me a minute . 
+================================
+(trg)="435"> Tack . 
+================================
+(src)="506"> Thank you . 
+================================
+(src)="507"> You should always use gloves with these things , you know . 
+(trg)="436"> Man ska alltid använda handskar . 
+================================
+(src)="508"> Heaviest oil deposit is always on the first key used . 
+(trg)="437"> Första siffran är alltid mest flottig - tveklöst en trea . 
+================================
+(src)="509"> That' s quite clearly a three , but after that the sequence ... ... is almost impossible to read . 
+(trg)="438"> Sen blir det svårare . 
+================================
+(src)="510"> I see from the make that it' s a six- digit code . 
+(trg)="439"> En sexsiffrig kod , men knappast personnumret . 
+================================
+(src)="511"> It can' t be your birthday , no disrespect ... ... but clearly you were born in the ' 80s and 8' s barely used , so ... 
+(trg)="440"> - Ni är 80- talist och 8 : an är oanvänd . 
+================================
+(src)="512"> I' d tell you the code right now , but you know what ? 
+(trg)="441"> - Jag skulle kunna tala om koden ... 
+================================
+(src)="513"> I already have . 
+(src)="514"> Think . 
+(trg)="442"> Men jag har redan gjort det . 
+================================
+(trg)="443"> Tänk ! 
+================================
+(src)="515"> Hands behind your head , on the floor , keep it still ! 
+(src)="516"> - Sorry , Sherlock . 
+(trg)="444"> Händerna bakom huvudet , ner på golvet och ligg stilla ! 
+================================
+(src)="517"> - Miss Adler , on the floor ! 
+(trg)="445"> Ner , miss Adler ! 
+================================
+(src)="518"> - Don' t you want me on the floor too ? 
+(trg)="446"> - Gäller det mig med ? 
+================================
+(src)="519"> - No , sir , I want you to open the safe . 
+(trg)="447"> - Ni ska öppna kassaskåpet . 
+================================
+(src)="520"> American . 
+(src)="521"> Interesting . 
+(src)="522"> Why would you care ? 
+(trg)="448"> - Varför vill en amerikan ha bilderna ? 
+================================
+(src)="523"> - Sir , the safe , now , please . 
+(trg)="449"> - Öppna kassaskåpet , tack . 
+================================
+(src)="524"> - I don' t know the code . 
+(trg)="450"> - Jag har inte koden . 
+================================
+(src)="525"> We' ve been listening , she said she told you . 
+(trg)="451"> - Hon talade om den för er . 
+================================
+(src)="526"> Well if you' ve been listening , you' il know she didn' t . 
+(src)="527"> I' m assuming I missed something . 
+(src)="528"> From your reputation , I' m assuming you didn' t , Mr Holmes . 
+(trg)="452"> Jag uppfattade ingenting , men med tanke på ert rykte bör ni ha gjort det . 
+================================
+(src)="529"> For God' s sake , she' s the one who knows the code , ask her ! 
+(trg)="453"> Hon kan koden ! 
+================================
+(src)="530"> Yes , sir , she also knows the code that automatically calls the police ... ... and sets off the burglar alarm . 
+(trg)="454"> Hon kan även kalla på polis och sätta på tjuvlarmet . 
+(trg)="455"> Jag litar inte på henne . 
+================================
+(src)="531"> - I' ve learned not to trust this woman . 
+(src)="532"> - Mr Holmes doesn' t ... 
+(trg)="456"> - Mr Holmes vet inte ... 
+================================
+(src)="533"> Shut up ! 
+(trg)="457"> - Tig ! 
+================================
+(src)="534"> One more word out of you , just one ... ... and I will decorate that wall with the insides of your head . 
+(src)="535"> That , for me , will not be hardship . 
+(trg)="458"> Får jag höra ett ord till ... ... tvekar jag inte att måla väggen med innanmätet i er skalle . 
+================================
+(src)="536"> Mr Archer , at the count of three , shoot Dr Watson . 
+(src)="537"> - What ? 
+(src)="538"> - I don' t know the code . 
+(trg)="459"> Mr Archer , när jag har räknat till tre skjuter ni dr Watson . 
+================================
+(src)="539"> - One . 
+(trg)="460"> - Ett . 
+================================
+(src)="540"> - I don' t know the code . 
+(trg)="461"> - Jag kan inte koden . 
+================================
+(src)="541"> - Two . 
+(src)="542"> - She didn' t tell me , I don' t know it ! 
+(trg)="462"> Jag kan den inte ! 
+================================
+(src)="543"> I' m prepared to believe you , any second now . 
+(trg)="463"> Alldeles snart kommer jag att tro er . 
+================================
+(src)="544"> - Three ! 
+(trg)="464"> - Tre . 
+================================
+(src)="545"> - No , stop ! 
+(trg)="465"> - Vänta ! 
+================================
+(src)="546"> Thank you , Mr Holmes . 
+(trg)="466"> Tack ska ni ha . 
+================================
+(src)="547"> Open it , please . 
+(trg)="467"> Var snäll och öppna . 
+================================
+(src)="548"> Vatican cameos ! 
+(trg)="468"> Vatikanska kaméer ! 
+================================
+(src)="549"> - Do you mind ? 
+(trg)="469"> - Har ni lust ? 
+================================
+(src)="550"> - Not at all . 
+(trg)="470"> - Så gärna . 
+================================
+(src)="551"> - He' s dead . 
+(trg)="471"> - Han är död . 
+(trg)="472"> - Tack . 
+================================
+(src)="552"> - Thank you . 
+(src)="553"> You were very observant . 
+(trg)="473"> Det var uppmärksamt av er . 
+================================
+(src)="554"> - Observant ? 
+(src)="555"> - I' m flattered . 
+(trg)="474"> - Jag är smickrad . 
+================================
+(src)="556"> - Don' t be . 
+(trg)="475"> - Var inte det . 
+================================
+(src)="557"> - Flattered ? 
+(trg)="476"> Det kommer fler . 
+================================
+(src)="558"> There' il be more of them , they' il be keeping an eye on the building . 
+(trg)="477"> De lär bevaka huset . 
+================================
+(src)="559"> - We should call the police . 
+(trg)="478"> - Vi måste kalla på polis . 
+(trg)="479"> - Ja . 
+================================
+(src)="560"> - Yes . 
+================================
+(src)="561"> - On their way . 
+(trg)="480"> - De är på väg . 
+================================
+(src)="562"> - For God' s sake ! 
+(src)="563"> Oh , shut up , it' s quick . 
+(trg)="481"> - För guds skull ... 
+================================
+(src)="564"> Check the rest of the house , see how they got in . 
+(trg)="482"> Ta reda på hur de tog sig in . 
+================================
+(src)="565"> Well , that' s the knighthood in the bag . 
+(trg)="483"> Då var adelstiteln kirrad . 
+================================
+(src)="566"> And that' s mine . 
+(trg)="484"> Den där är min . 
+================================
+(src)="567"> All the photographs are on here , I presume ? 
+(trg)="485"> - Alla bilder finns väl här ? 
+================================
+(src)="568"> - I have copies , of course . 
+(trg)="486"> - Jag har kopior . 
+================================
+(src)="569"> - No , you don' t . 
+(src)="570"> You' il have permanently disabled any kind of uplink or connection . 
+(trg)="487"> Ni har sett till att bilderna inte kan spridas . 
+================================
+(src)="571"> Unless the contents of this phone are provably unique ... ... you wouldn' t be able to sell them . 
+(trg)="488"> Materialet måste vara unikt för att kunna säljas . 
+================================
+(src)="572"> - Who said I' m selling ? 
+(trg)="489"> - Vem har sagt nåt om att sälja ? 
+================================
+(src)="573"> - Well , why would they be interested ? 
+(src)="574"> Whatever' s on the phone , it' s clearly not just photographs . 
+(trg)="490"> - Mobilen innehåller annat än bilder . 
+================================
+(src)="575"> That camera- phone is my life , Mr Holmes . 
+(trg)="491"> Kameramobilen är mitt liv . 
+================================
+(src)="576"> I' d die before I let you take it . 
+(trg)="492"> Jag dör hellre än låter er ta den . 
+================================
+(src)="577"> It' s my protection . 
+(trg)="493"> - Den är min försäkring . 
+================================
+(src)="578"> - Sherlock ! 
+(src)="579"> - It was . 
+(trg)="494"> - Inte nu längre . 
+================================
+(src)="580"> - Must have come in this way . 
+(src)="581"> - Clearly . 
+(trg)="495"> De kom in den här vägen . 
+================================
+(src)="582"> It' s all right , she' s just out cold . 
+(trg)="496"> - Hon är bara avsvimmad . 
+================================
+(src)="583"> Well , God knows , she' s used to that . 
+(trg)="497"> - Hon är van . 
+================================
+(src)="584"> There' s a back door . 
+(src)="585"> Better check it , Dr Watson . 
+(trg)="498"> Kolla bakdörren , dr Watson . 
+================================
+(src)="586"> Sure . 
+(trg)="499"> Visst . 
+================================
+(src)="587"> You' re very calm . 
+(trg)="500"> Ni verkar sansad . 
+================================
+(src)="588"> Well , your booby trap did just kill a man . 
+(trg)="501"> Ni dödade en man med er försåtanordning . 
+================================
+(src)="589"> He would have killed me . 
+(trg)="502"> Han hade dödat mig . 
+================================
+(src)="590"> It was self- defence in advance . 
+(trg)="503"> Det var förebyggande självförsvar . 
+================================
+(src)="591"> What ... ? 
+(src)="592"> What is that ? 
+(src)="593"> What ... 
+(trg)="504"> Vad var det där ? 
+================================
+(src)="594"> Give it to me . 
+(src)="595"> Now . 
+(src)="596"> Give it to me . 
+(trg)="505"> Ge mig den . 
+================================
+(src)="597"> - No . 
+(trg)="506"> - Nej ! 
+================================
+(src)="598"> - Give it to me . 
+(src)="599"> - No . 
+(trg)="507"> - Ge mig den . 
+================================
+(src)="600"> - Oh , for goodness ' sake ! 
+(trg)="508"> Men herregud ... 
+================================
+(src)="601"> Drop it . 
+(trg)="509"> Släpp den ! 
+================================
+(src)="602"> I said drop it ! 
+(trg)="510"> Släpp den , sa jag ! 
+================================
+(src)="603"> Ah , thank you , dear . 
+(trg)="511"> Tack , kära ni . 
+================================
+(src)="604"> Now , tell that sweet little posh thing the pictures are safe with me . 
+(trg)="512"> Hälsa fina flickan att bilderna är i säkert förvar . 
+================================
+(src)="605"> They' re not for blackmail , just for insurance . 
+(trg)="513"> Inte för utpressning , bara som försäkring . 
+================================
+(src)="606"> Besides , I might want to see her again . 
+(trg)="514"> Jag vill kanske träffa henne igen . 
+================================
+(src)="607"> Oh , no , no , no , no , no , no . 
+(trg)="515"> Stopp där . 
+================================
+(src)="608"> It' s been a pleasure . 
+(trg)="516"> Det här var ett rent nöje . 
+================================
+(src)="609"> Don' t spoil it . 
+(trg)="517"> Förstör inte det . 
+================================
+(src)="610"> This is how I want you to remember me , the woman who beat you . 
+(trg)="518"> Jag vill att ni kommer ihåg mig som kvinnan som besegrade er . 
+================================
+(src)="611"> Goodnight , Mr Sherlock Holmes . 
+(trg)="519"> - God natt , mr Sherlock Holmes . 
+================================
+(src)="612"> - Jesus ! 
+(trg)="520"> - Vad gör ni ? 
+================================
+(src)="613"> What are you doing ? 
+(src)="614"> - He' il sleep for a few hours . 
+(trg)="521"> Han kommer att sova ett par timmar . 
+================================
+(src)="615"> Make sure he doesn' t choke on his own vomit . 
+(src)="616"> It makes for a very unattractive corpse . 
+(trg)="522"> Se till att han inte kvävs av spyorna . 
+================================
+(src)="617"> What' s this ? 
+(src)="618"> What have you given him ? 
+(src)="619"> Sherlock ? 
+(trg)="523"> - Vad har ni gett honom ? 
+================================
+(src)="620"> He' il be fine . 
+================================
+(src)="621"> I' ve used it on loads of my friends . 
+(src)="622"> Sherlock , can you hear me ? 
+(trg)="524"> - Han kvicknar till . 
+================================
+(src)="623"> You know , I was wrong about him . 
+(trg)="525"> Jag missbedömde honom . 
+================================
+(src)="624"> He did know where to look . 
+(src)="625"> - For what ? 
+(trg)="526"> Han visste var han skulle titta . 
+================================
+(src)="626"> What are you talking about ? 
+(src)="627"> - The key- code to my safe . 
+(trg)="527"> - Koden till kassaskåpet . 
+================================
+(src)="628"> - What was it ? 
+(trg)="528"> - Vad var det ? 
+================================
+(src)="629"> - Shall I tell him ? 
+(trg)="529"> Ska jag berätta det ? 
+================================
+(src)="630"> My measurements . 
+(trg)="530"> Mina mått . 
+================================
+(src)="631"> Got it ! 
+(trg)="531"> Nu vet jag ! 
+================================
+(src)="632"> No , don' t get up . 
+(trg)="532"> Såja , sitt kvar . 
+================================
+(src)="633"> I' il do the talking . 
+(trg)="533"> Jag sköter snacket . 
+================================
+(src)="634"> So the car' s about to backfire and the hiker , he' s staring at the sky . 
+(trg)="534"> Bilen är på väg att baktända . 
+(trg)="535"> Vandraren tittar upp mot himlen . 
+================================
+(src)="635"> No , you said he could be watching birds , but he wasn' t , was he ? 
+(trg)="536"> På fåglar , sa ni , men det stämmer inte . 
+================================
+(src)="636"> He was watching another kind of flying thing . 
+(trg)="537"> Det var ett annat flygande föremål . 
+================================
+(src)="637"> The car backfires and the hiker turns to look . 
+(trg)="538"> När bilen baktänder vänder sig vandraren om . 
+================================
+(src)="638"> Which was his big mistake . 
+(trg)="539"> Ett ödesdigert misstag . 
+================================
+(src)="639"> By the time the driver looks up , the hiker is already dead . 
+(trg)="540"> Föraren hinner aldrig se vad som dödade vandraren . 
+================================
+(src)="640"> What he doesn' t see is what killed him ... ... because it' s already being washed downstream . 
+(trg)="541"> Det har sköljts bort av strömmen . 
+================================
+(src)="641"> An accomplished sportsman recently returned from foreign travel with a boomerang . 
+(trg)="542"> En erfaren friluftsmänniska återvänder från utlandet med en bumerang . 
+================================
+(src)="642"> You got that from one look ? 
+(src)="643"> Definitely the new sexy . 
+(trg)="543"> Och det fick ni fram av en titt ... 
+================================
+(trg)="544"> Sexigt var ordet . 
+================================
+(src)="644"> I ... 
+(trg)="545"> Jag ... 
+================================
+(src)="645"> I ... 
+(trg)="546"> Jag ... 
+================================
+(src)="646"> Hush now , it' s okay . 
+(trg)="547"> Såja ... 
+(trg)="548"> Ingen fara . 
+================================
+(src)="647"> I' m only returning your coat . 
+(trg)="549"> Jag ska bara lämna tillbaka rocken . 
+================================
+(src)="648"> John ? 
+(trg)="550"> John ? 
+================================
+(trg)="551"> John ! 
+================================
+(src)="649"> John ! 
+================================
+(src)="650"> - You okay ? 
+(trg)="552"> Hur gick det ? 
+================================
+(src)="651"> - How did I get here ? 
+(src)="652"> Well , I don' t suppose you remember much , you weren' t making a lot of sense . 
+(trg)="553"> Du minns förstås inte mycket . 
+================================
+(src)="653"> Oh , I should warn you , I think Lestrade filmed you on his phone . 
+(trg)="554"> Lestrade har försökt nå dig . 
+================================
+(src)="654"> - Where is she ? 
+(src)="655"> - Where' s who ? 
+(trg)="555"> - Var är hon ? 
+================================
+(src)="656"> - The woman , that woman . 
+(trg)="556"> Kvinnan . 
+================================
+(src)="657"> - What woman ? 
+(src)="658"> - The woman ! 
+(trg)="557"> - Vilken kvinna ? 
+================================
+(src)="659"> The woman woman ! 
+(trg)="558"> - Kvinnan ! 
+================================
+(src)="660"> - Oh , Irene Adler ? 
+(src)="661"> She got away , no one saw her . 
+(trg)="559"> - Irene Adler lyckades undkomma . 
+================================
+(src)="662"> She wasn' t here , Sherlock . 
+(trg)="560"> Hon har inte varit här . 
+================================
+(src)="663"> What are you ... 
+(trg)="561"> Vad ska du ? 
+================================
+(src)="664"> What ? 
+(src)="665"> No , no , no . 
+(trg)="562"> Nej , nej , nej . 
+================================
+(src)="666"> No . 
+(src)="667"> Back to bed . 
+(trg)="563"> Tillbaka i sängen med dig . 
+================================
+(src)="668"> You' il be fine in the morning . 
+(src)="669"> Just sleep . 
+(trg)="564"> - I morgon mår du bra igen . 
+================================
+(src)="670"> Of course I' il be fine , I am fine . 
+(src)="671"> I' m absolutely fine . 
+(trg)="565"> - Jag mår bra nu . 
+================================
+(src)="672"> Yes , you' re great . 
+(src)="673"> Now , I' il be next door if you need me . 
+(trg)="566"> - Jag är här bredvid om du behöver mig . 
+================================
+(src)="674"> - Why would I need you ? 
+(src)="675"> - No reason at all . 
+(trg)="567"> - Varför skulle jag det ? 
+================================
+(trg)="568"> VI SES IGEN , MR HOLMES 
+================================
+(src)="676"> - The photographs are perfectly safe . 
+(trg)="569"> - Oroa dig inte för bilderna . 
+================================
+(src)="677"> - In the hands of a fugitive sex worker ? 
+(trg)="570"> - De är i en sexarbetares våld . 
+================================
+(src)="678"> She' s not interested in blackmail . 
+(src)="679"> She wants ... protection , for some reason . 
+(trg)="571"> Hon vill inte ha pengar , utan ... beskydd av nån anledning . 
+================================
+(src)="680"> I take it you' ve stood down the police investigation ... ... into the shooting at her house ? 
+(trg)="572"> Stoppade du utredningen av skottdramat ? 
+================================
+(src)="681"> How can we do anything while she has the photographs ? 
+(src)="682"> Our hands are tied . 
+(trg)="573"> Så länge hon har bilderna är vi bakbundna . 
+================================
+(src)="683"> She' d applaud your choice of words . 
+(trg)="574"> Hon skulle uppskatta ordvalet . 
+================================
+(src)="684"> You see how this works , that camera- phone is her get- out- of- jail- free card . 
+(trg)="575"> Mobilen är hennes frikort , så låt henne vara . 
+================================
+(src)="685"> You have to leave her alone . 
+(src)="686"> Treat her like royalty , Mycroft . 
+(trg)="576"> - Behandla henne som en kunglighet . 
+================================
+(src)="687"> Though not the way she treats royalty . 
+(trg)="577"> - Men inte som hon behandlar dem . 
+================================
+(src)="688"> - What was that ? 
+(trg)="578"> - Vad var det ? 
+(trg)="579"> - Ett sms . 
+================================
+(src)="689"> - Text . 
+(src)="690"> But what was that noise ? 
+(trg)="580"> Vad var det för ett ljud ? 
+================================
+(src)="691"> Did you know there were other people after her , too , Mycroft ... ... before you sent John and I in there ? 
+(trg)="581"> Visste du att hon hade andra efter sig ? 
+================================
+(src)="692"> - ClA trained killers , I think excellent guess . 
+(src)="693"> - Yeah , thanks for that , Mycroft . 
+(trg)="582"> CIA- utbildade mördare är en kvalificerad gissning . 
+================================
+(src)="694"> It' s a disgrace , sending your little brother into danger like that . 
+(trg)="583"> Det är skamligt att utsätta sin lillebror för fara . 
+================================
+(src)="695"> Family is all we have in the end , Mycroft Holmes ! 
+(trg)="584"> Familjen är det viktigaste vi har , Mycroft Holmes . 
+================================
+(src)="696"> - Oh , shut up , Mrs Hudson ! 
+(src)="697"> - Mycroft ! 
+(trg)="585"> - Håll tyst , mrs Hudson ! 
+================================
+(trg)="586"> - Mycroft ! 
+================================
+(src)="698"> - Apologies . 
+(src)="699"> - Thank you . 
+(trg)="587"> - Jag ber om ursäkt . 
+================================
+(src)="700"> Though do , in fact , shut up . 
+(trg)="588"> - Men gör som han sa . 
+================================
+(src)="701"> Oh , it' s a bit rude , that noise , isn' t it ? 
+(trg)="589"> Är det inte oanständigt , det där ljudet ? 
+================================
+(src)="702"> There' s nothing you can do and nothing she will do , as far as I can see . 
+(trg)="590"> - Det finns ingenting du kan göra . 
+================================
+(src)="703"> - I can put maximum surveillance on her . 
+(trg)="591"> - Jag kan sätta övervakning på henne . 
+================================
+(src)="704"> - Why bother ? 
+(src)="705"> You can follow her on Twitter . 
+(src)="706"> I believe her username is The Whip Hand . 
+(trg)="592"> Följ henne på Twitter under användarnamnet " Pisksnärten " . 
+================================
+(src)="707"> Yes , most amusing . 
+(trg)="593"> Väldigt lustigt . 
+================================
+(src)="708"> Excuse me . 
+(trg)="594"> Ursäkta . 
+================================
+(src)="709"> Hello ? 
+(trg)="595"> - Hallå ? 
+================================
+(src)="710"> Why does your phone make that noise ? 
+(trg)="596"> Varför låter din mobil så där ? 
+================================
+(src)="711"> - What noise ? 
+(trg)="597"> - Hur då ? 
+================================
+(src)="712"> - That noise , the one it just made . 
+(trg)="598"> - Som den lät nyss . 
+================================
+(src)="713"> It' s a text alert , it means I' ve got a text . 
+(trg)="599"> - Det betyder att jag har fått ett sms . 
+================================
+(src)="714"> Your texts don' t usually make that noise . 
+(trg)="600"> - Det brukar inte låta så . 
+================================
+(src)="715"> Well , somebody got hold of the phone and apparently as a joke ... ... personalised their text alert noise . 
+(trg)="601"> Nån har mixtrat med telefonen och lagt in en personlig sms- signal . 
+================================
+(src)="716"> So every time they text you ... 
+(trg)="602"> - Så varje gång personen sms : ar ... 
+================================
+(src)="717"> - It would seem so . 
+(trg)="603"> - Det tycks så . 
+================================
+(src)="718"> - Could you turn that phone down a bit ? 
+(trg)="604"> Kan du sänka ljudet ? 
+================================
+(src)="719"> At my time of life it' s ... 
+(trg)="605"> När man är i min ålder ... 
+================================
+(src)="720"> See , I' m wondering who could have got hold of your phone ... ... because it would have been in your coat , wouldn' t it ? 
+(trg)="606"> - Mobilen låg ju i din rock ... 
+(trg)="607"> - Dra dina egna slutsatser . 
+================================
+(src)="721"> I' il leave you to your deductions . 
+================================
+(src)="722"> - I' m not stupid , you know . 
+(trg)="608"> - Jag är inte dum . 
+================================
+(src)="723"> - Where do you get that idea ? 
+(trg)="609"> - Vad får dig att tro det ? 
+================================
+(src)="724"> Bond Air is go , that' s decided . 
+(trg)="610"> Grönt ljus för Bond Air . 
+================================
+(src)="725"> Check with the Coventry lot . 
+(src)="726"> Talk later . 
+(trg)="611"> Kolla med Coventry . 
+================================
+(src)="727"> What else does she have ? 
+(trg)="612"> Vad har hon mer ? 
+================================
+(src)="728"> Irene Adler . 
+(trg)="613"> Irene Adler . 
+================================
+(src)="729"> The Americans wouldn' t be interested in her for a couple of compromising photographs . 
+(trg)="614"> Amerikanerna struntar i fotografierna . 
+================================
+(src)="730"> There' s more . 
+(src)="731"> Much more . 
+(trg)="615"> Det handlar om mycket mer än så . 
+================================
+(src)="732"> Something big' s coming , isn' t it ? 
+(trg)="616"> Det är nåt stort på gång . 
+================================
+(src)="733"> Irene Adler is no longer any concern of yours . 
+(trg)="617"> Irene Adler är inte ditt bekymmer längre . 
+================================
+(src)="734"> From now on , you will stay out of this . 
+(trg)="618"> Du ska låta det här vara . 
+================================
+(src)="735"> Oh , will I ? 
+(trg)="619"> - Ska jag ? 
+================================
+(src)="736"> Yes , Sherlock . 
+(trg)="620"> - Ja , Sherlock . 
+================================
+(src)="737"> You will . 
+(trg)="621"> Det ska du . 
+================================
+(src)="738"> Now , if you' il excuse me , I have a long and arduous apology to make ... 
+(trg)="622"> Nu måste jag framföra en ursäkt till en gammal vän . 
+================================
+(src)="739"> - ... to a very old friend . 
+(src)="740"> - Do give her my love . 
+(trg)="623"> Hälsa från mig . 
+================================
+(src)="741"> - Lovely , Sherlock . 
+(src)="742"> That was lovely . 
+(trg)="624"> - Förtjusande , Sherlock ! 
+================================
+(src)="743"> - Marvellous . 
+(trg)="625"> - Fantastiskt . 
+================================
+(src)="744"> - That was very good . 
+(src)="745"> - I wish you could have worn the antlers . 
+(trg)="626"> - Du skulle ha tagit på dig hjorthornen . 
+================================
+(src)="746"> Some things are best left to the imagination , Mrs Hudson . 
+(src)="747"> - Mrs H . 
+(trg)="627"> - Bäst att överlåta det åt fantasin . 
+================================
+(src)="748"> - Oh , no thank you , Sarah . 
+(trg)="628"> - Nej tack , Sarah . 
+================================
+(src)="749"> No , no , no , no , he' s not good with names . 
+(src)="750"> No , no , no , I can get this . 
+(trg)="629"> - Han är dålig på namn . 
+================================
+(src)="751"> No , Sarah was the doctor ... ... and then there was the one with the spots and then the one with the nose and then ... 
+(src)="752"> Who was after the boring teacher ? 
+(trg)="630"> Efter Sarah var det hon med finnarna , och vem kom efter den tråkiga läraren ? 
+================================
+(src)="753"> Nobody . 
+(trg)="631"> - Ingen . 
+================================
+(src)="754"> Jeanette ! 
+(trg)="632"> - Jeanette ! 
+================================
+(src)="755"> Ah , process of elimination . 
+(trg)="633"> Uteslutningsmetoden . 
+================================
+(src)="756"> Oh , dear Lord . 
+(trg)="634"> - Kära nån ... 
+================================
+(src)="757"> Hello , everyone . 
+(src)="758"> Sorry , hello . 
+(trg)="635"> - Hej allihop ! 
+================================
+(src)="759"> It said on the door just to , just come up . 
+(src)="760"> Hello , Molly . 
+(trg)="636"> Det stod på dörren att det bara var att stiga på . 
+================================
+(src)="761"> Everybody saying hello to each other , how wonderful ! 
+(src)="762"> - Let me , er ... 
+(trg)="637"> - Ska jag ... 
+================================
+(src)="763"> Holy Mary ! 
+(src)="764"> - Wow ! 
+(trg)="638"> Milda makter ! 
+================================
+(src)="765"> - So we' re having a Christmas drinkies , then ? 
+(src)="766"> - No stopping them , apparently . 
+(trg)="639"> - Här var det julfest . 
+================================
+(src)="767"> It' s the one day of the year where the boys have to be nice to me , so it' s almost worth it . 
+(trg)="640"> Det är enda dagen som pojkarna måste vara snälla , så det är nästan värt det . 
+================================
+(src)="768"> John ? 
+(trg)="641"> - Slå dig ner . 
+================================
+(src)="769"> - The counter on your blog ... 
+(src)="770"> - Molly ? 
+(src)="771"> - It still says 1, 895 . 
+(trg)="642"> - Fortfarande 1895 träffar på bloggen . 
+================================
+(src)="772"> - Oh no , Christmas is cancelled . 
+(src)="773"> And you' ve got a photograph of me wearing that hat ! 
+(src)="774"> - People like the hat . 
+(trg)="643"> Har du lagt ut en bild på mig i hatten ? 
+================================
+(src)="775"> - No , they don' t . 
+================================
+(src)="776"> What people ? 
+(src)="777"> - How' s the hip ? 
+(trg)="644"> - Hur är det med höften ? 
+================================
+(src)="778"> - Oh , it' s atrocious , but thanks for asking . 
+(trg)="645"> - Hemsk , tackar som frågar . 
+================================
+(src)="779"> I' ve seen much worse , but then I do post- mortems . 
+(trg)="646"> Jag har sett värre , men jag jobbar ju med döda . 
+================================
+(src)="780"> Oh , God , sorry . 
+(trg)="647"> - Oj , förlåt ! 
+================================
+(src)="781"> - Don' t make jokes , Molly . 
+(src)="782"> - No , sorry . 
+(src)="783"> - Here you are . 
+(trg)="648"> - Låt bli att skämta , Molly . 
+================================
+(src)="784"> - Thank you . 
+(src)="785"> I wasn' t expecting to see you . 
+(trg)="649"> - Skulle inte du till Dorset över julen ? 
+================================
+(src)="786"> I thought you were going to be in Dorset for Christmas ? 
+(src)="787"> That' s first thing in the morning , me and the wife , 
+(trg)="650"> - Vi åker i morgon , jag och frugan . 
+================================
+(src)="788"> - ... we' re back together , it' s all sorted . 
+(trg)="651"> - Det är bra igen . 
+================================
+(src)="789"> - No , she' s sleeping with a PE teacher . 
+(trg)="652"> - Hon ligger med idrottsläraren . 
+================================
+(src)="790"> And John , I hear you' re off to your sister' s , is that right ? 
+(trg)="653"> John , du ska visst hälsa på din syster ? 
+================================
+(src)="791"> - Yeah . 
+(src)="792"> - Sherlock was complaining . 
+(trg)="654"> Sherlock gnällde över det . 
+================================
+(src)="793"> Saying . 
+(src)="794"> First time ever , she' s cleaned- up her act , she' s off the booze . 
+(trg)="655"> - Hon har lagt av med spriten . 
+================================
+(src)="795"> - Nope . 
+(src)="796"> - Shut up , Sherlock ! 
+(trg)="656"> - Icke . 
+================================
+(src)="797"> I see you' ve got a new boyfriend , Molly , and you' re serious about him . 
+(trg)="657"> Så du har en ny pojkvän , Molly ? 
+================================
+(src)="798"> What ? 
+(src)="799"> Sorry , what ? 
+(src)="800"> In fact , you' re seeing him this very night and giving him a gift . 
+(trg)="658"> Som du ska träffa i kväll och ge ett paket . 
+================================
+(src)="801"> - Take a day off . 
+(src)="802"> - Shut up and have a drink . 
+(trg)="659"> - Ta ledigt en dag . 
+================================
+(src)="803"> Oh , come on , surely you' ve all seen the present at the top of the bag . 
+(trg)="660"> - Ser ni inte paketet högst upp ? 
+================================
+(src)="804"> Perfectly wrapped with a bow . 
+(src)="805"> All the others are slapdash at best . 
+(src)="806"> It' s for someone special , then . 
+(trg)="661"> Omsorgsfullt inslaget till skillnad från övriga hastverk . 
+================================
+(src)="807"> The shade of red echoes her lipstick , either an unconscious association ... ... or one that she' s deliberately trying to encourage . 
+(trg)="662"> Den röda färgen går igen i läppstiftet . 
+================================
+(src)="808"> Either way , Miss Hooper has love on her mind . 
+(trg)="663"> Miss Hooper har kärlek i sikte . 
+================================
+(src)="809"> The fact that she' s serious about him is clear from the fact she' s giving him a gift at all . 
+(trg)="664"> Gåvan i sig tyder på allvarligt menade förhoppningar - om än fåfänga . 
+================================
+(src)="810"> That always suggests long- term hopes , however forlorn ... ... and that she' s seeing him tonight is evident from her make- up and what she' s wearing . 
+(trg)="665"> Hon har sminkat sig och klätt upp sig - 
+================================
+(src)="811"> Obviously trying to compensate for the size of her mouth and breasts ... 
+(trg)="666"> - som kompensation för storleken på mun och byst ... 
+================================
+(trg)="667"> TILL KÄRASTE SHERLOCK FRÅN MOLLY 
+================================
+(src)="812"> You always say such horrible things . 
+(trg)="668"> Du säger alltid så elaka saker . 
+================================
+(src)="813"> Every time . 
+(trg)="669"> Varenda gång . 
+================================
+(src)="814"> Always . 
+(src)="815"> Always . 
+(trg)="670"> Alltid . 
+================================
+(src)="816"> I am sorry . 
+(trg)="671"> Jag är ledsen . 
+================================
+(src)="817"> Forgive me . 
+(trg)="672"> Förlåt mig . 
+================================
+(src)="818"> Merry Christmas , Molly Hooper . 
+(trg)="673"> God jul , Molly Hooper . 
+================================
+(src)="819"> - Oh , no ! 
+(src)="820"> That wasn' t ... 
+(trg)="674"> - Nej , det var inte ... 
+================================
+(src)="821"> I didn' t ... 
+(src)="822"> - No , it was me . 
+(trg)="675"> - Det var jag . 
+================================
+(src)="823"> - My God , really ? 
+(trg)="676"> - Verkligen ? 
+================================
+(src)="824"> - What ? 
+(src)="825"> My phone . 
+(trg)="677"> - Min telefon . 
+================================
+(src)="826"> Fifty- seven ? 
+(src)="827"> - Sorry , what ? 
+(trg)="678"> Du har fått 57 sådana sms . 
+================================
+(src)="828"> - 57 of those texts , the ones I' ve heard . 
+(src)="829"> Thrilling that you' ve been counting . 
+(trg)="679"> Så spännande att du har räknat . 
+================================
+(src)="830"> Excuse me . 
+(trg)="680"> - Ursäkta mig . 
+================================
+(src)="831"> - What' s up , Sherlock ? 
+(trg)="681"> - Vad är det ? 
+================================
+(src)="832"> - I said excuse me . 
+(trg)="682"> - Ursäkta mig , sa jag . 
+================================
+(src)="833"> Do you ever reply ? 
+(trg)="683"> - Svarar du nånsin ? 
+================================
+(src)="834"> Oh dear Lord , we' re not going to have Christmas phone calls now , are we ? 
+(trg)="684"> Säg inte att vi ska ha årliga julsamtal . 
+================================
+(src)="835"> Have they passed a new law ? 
+(trg)="685"> Har det blivit lag på det ? 
+================================
+(src)="836"> I think you' re going to find Irene Adler tonight . 
+(trg)="686"> - Irene Adler kommer att hittas i kväll . 
+================================
+(src)="837"> We already know where she is . 
+(trg)="687"> - Vi vet var hon är . 
+================================
+(src)="838"> As you were kind enough to point out , it hardly matters . 
+(trg)="688"> Som du påpekade spelar det ingen roll . 
+================================
+(src)="839"> No , I mean you' re going to find her dead . 
+(trg)="689"> Ni kommer att hitta henne död . 
+================================
+(src)="840"> - You okay ? 
+(src)="841"> - Yes . 
+(trg)="690"> - Är allt bra ? 
+================================
+(trg)="691"> - Ja . 
+================================
+(src)="842"> The only who fitted the description . 
+(src)="843"> Had her brought here , your home from home . 
+(trg)="692"> Signalementet stämde , så jag lät föra henne hit , till ditt andra hem . 
+================================
+(src)="844"> You didn' t need to come in , Molly . 
+(trg)="693"> - Du behövde inte komma in . 
+================================
+(src)="845"> It' s okay , everyone else was busy with ... 
+(trg)="694"> - Alla andra firar jul . 
+================================
+(src)="846"> Christmas . 
+(src)="847"> The face is a bit sort of bashed- up , so it might be a bit difficult . 
+(trg)="695"> Ansiktet är hyfsat sönderslaget , så det kan vara lite svårt ... 
+================================
+(src)="848"> - That' s her , isn' t it ? 
+(trg)="696"> - Visst är det hon ? 
+================================
+(src)="849"> - Show me the rest of her . 
+(trg)="697"> - Visa resten av kroppen . 
+================================
+(src)="850"> That' s her . 
+(trg)="698"> - Det är hon . 
+================================
+(src)="851"> - Thank you , Miss Hooper . 
+(trg)="699"> - Tack , miss Hooper . 
+(trg)="700"> Vem är hon ? 
+================================
+(src)="852"> - Who is she ? 
+(src)="853"> How did Sherlock recognise her from not her face ? 
+(trg)="701"> Hur kunde Sherlock känna igen henne på ... annat än ansiktet ? 
+================================
+(src)="854"> Just the one . 
+(trg)="702"> Bara en . 
+================================
+(src)="855"> - Why ? 
+(src)="856"> - Merry Christmas . 
+(trg)="703"> - Varför det ? 
+================================
+(trg)="704"> - God jul . 
+================================
+(src)="857"> Smoking indoors , isn' t there one of those ... one of those law things ? 
+(trg)="705"> Rökning inomhus , finns det ingen lag om det ? 
+================================
+(src)="858"> We' re in a morgue . 
+(src)="859"> There' s only so much damage you can do . 
+(trg)="706"> Ingen kan fara illa av det på ett bårhus . 
+================================
+(src)="860"> How did you know she was dead ? 
+(trg)="707"> - Hur visste du att hon var död ? 
+================================
+(src)="861"> She had an item in her possession . 
+(trg)="708"> - Hon hade ett föremål i sin ägo . 
+================================
+(src)="862"> One she said her life depended on . 
+(src)="863"> She chose to give it up . 
+(trg)="709"> Hennes liv hängde på det , ändå gav hon ifrån sig det . 
+================================
+(src)="864"> Where is this item now ? 
+(trg)="710"> Var är föremålet nu ? 
+================================
+(src)="865"> Look at them . 
+(trg)="711"> Se på dem . 
+================================
+(src)="866"> They all care so much . 
+(trg)="712"> De bryr sig så mycket . 
+================================
+(src)="867"> Do you ever wonder if there' s something wrong with us ? 
+(trg)="713"> Tror du att det är nåt fel på oss ? 
+================================
+(src)="868"> All lives end ... all hearts are broken . 
+(trg)="714"> Alla liv tar slut , och alla hjärtan krossas . 
+================================
+(src)="869"> Caring is not an advantage ... ... Sherlock . 
+(trg)="715"> Att bry sig om andra är ingen fördel , Sherlock . 
+================================
+(src)="870"> This is low tar . 
+(trg)="716"> - Det är ju en lightcigarett . 
+================================
+(src)="871"> Well ... you barely knew her . 
+(trg)="717"> - Du kände henne knappt . 
+================================
+(src)="872"> Merry Christmas , Mycroft . 
+(trg)="718"> God jul , Mycroft . 
+================================
+(src)="873"> And a Happy New Year . 
+(trg)="719"> Och gott nytt år . 
+================================
+(src)="874"> He' s on his way . 
+(trg)="720"> - Han är på väg . 
+================================
+(src)="875"> Have you found anything ? 
+(src)="876"> - No . 
+(trg)="721"> Har ni hittat nåt ? 
+================================
+(src)="877"> Did he take the cigarette ? 
+(trg)="722"> - Nej . 
+================================
+(src)="878"> - Yes . 
+(src)="879"> Shit ! 
+(trg)="723"> Tog han emot cigaretten ? 
+================================
+(src)="880"> - He' s coming , ten minutes . 
+(trg)="724"> Han är här om tio minuter . 
+================================
+(src)="881"> - There' s nothing in the bedroom . 
+(src)="882"> Well , it looks like he' s clean . 
+(src)="883"> We' ve tried all the usual places . 
+(trg)="725"> - Vi har letat överallt utan resultat . 
+================================
+(src)="884"> - Are you sure tonight' s a danger night ? 
+(trg)="726"> - Är det risk för återfall just i kväll ? 
+================================
+(src)="885"> - No , but then I never am . 
+(trg)="727"> - Jag vet inte säkert . 
+================================
+(src)="886"> - You have to stay with him , John . 
+(trg)="728"> Stanna hos honom . 
+================================
+(src)="887"> - I' ve got plans . 
+(src)="888"> No . 
+(trg)="729"> - Jag har andra planer . 
+================================
+(trg)="730"> - Nej . 
+================================
+(src)="889"> Mycroft ... 
+(trg)="731"> Mycroft ? 
+================================
+(src)="890"> I am really sorry . 
+(trg)="732"> - Jag är ledsen . 
+================================
+(src)="891"> You know my friends are so wrong about you . 
+(trg)="733"> - Mina vänner har fel om dig . 
+================================
+(src)="892"> You' re a great boyfriend . 
+(trg)="734"> - Du är en fantastisk pojkvän . 
+================================
+(src)="893"> Okay , that' s good . 
+(src)="894"> I mean , I always thought I was great ... 
+(trg)="735"> - Så bra , det har jag alltid tyckt . 
+================================
+(src)="895"> - And Sherlock Holmes is a very lucky man . 
+(trg)="736"> - Sherlock Holmes har haft tur . 
+================================
+(src)="896"> - Oh , Jeanette , please . 
+(trg)="737"> - Snälla Jeanette ... 
+================================
+(src)="897"> No , I mean it . 
+(src)="898"> It' s heartwarming . 
+(src)="899"> You' il do anything for him . 
+(trg)="738"> Du gör allt för honom , och han kan inte ens hålla isär dina flickvänner . 
+================================
+(src)="900"> And he can' t even tell your girlfriends apart ! 
+(src)="901"> No , I' il do anything for you . 
+(src)="902"> Just tell me what it is I' m not doing , tell me ! 
+(trg)="739"> Säg vad jag ska göra ! 
+================================
+(src)="903"> Don' t make me compete with Sherlock Holmes ! 
+(trg)="740"> - Jag kan inte tävla mot Sherlock . 
+================================
+(src)="904"> I' il walk your dog for you . 
+(src)="905"> I' ve said it now . 
+(src)="906"> I' il even walk your dog . 
+(trg)="741"> - Jag kan rasta hunden åt dig . 
+================================
+(src)="907"> - I don' t have a dog ! 
+(trg)="742"> - Jag har ingen hund ! 
+================================
+(src)="908"> - No , because that was the last one . 
+(src)="909"> Okay . 
+(trg)="743"> - Nej , det var den förra ... 
+================================
+(src)="910"> - Jesus ! 
+(trg)="744"> Herregud ! 
+================================
+(src)="911"> - I' il call you . 
+(src)="912"> - No ! 
+(src)="913"> - Okay . 
+(trg)="745"> - Jag ringer . 
+================================
+(trg)="746"> - Nej ! 
+================================
+(src)="914"> That really wasn' t very good , was it ? 
+(trg)="747"> Det skötte du inget vidare . 
+================================
+(src)="915"> Oh , hi . 
+(trg)="748"> Hej . 
+================================
+(src)="916"> You okay ? 
+(trg)="749"> Är allt bra ? 
+================================
+(src)="917"> I hope you didn' t mess up my sock index this time . 
+(trg)="750"> Du har väl inte sabbat mitt strumpsystem ? 
+================================
+(src)="918"> Lovely tune , Sherlock . 
+(trg)="751"> Vilken vacker melodi , Sherlock . 
+================================
+(src)="919"> Haven' t heard that one before . 
+(trg)="752"> Jag har inte hört den förut . 
+================================
+(src)="920"> - You composing ? 
+(trg)="753"> - Komponerar du ? 
+================================
+(src)="921"> - Helps me to think . 
+(trg)="754"> - Jag tänker bättre då . 
+================================
+(src)="922"> What are you thinking about ? 
+(trg)="755"> - Vad tänker du på ? 
+================================
+(src)="923"> The count on your blog is still stuck at 1, 895 . 
+(trg)="756"> - Räkneverket har stannat på 1895 . 
+================================
+(src)="924"> Yes . 
+(src)="925"> Faulty , can' t seem to fix it . 
+(trg)="757"> - Ja , det är nåt fel på det . 
+================================
+(src)="926"> Faulty or you' ve been hacked and it' s a message . 
+(trg)="758"> - Det kan vara ett meddelande . 
+================================
+(trg)="759"> FEL KOD TRE FÖRSÖK ÅTERSTÅR 
+================================
+(src)="927"> Just faulty . 
+(trg)="760"> - Bara nåt fel ... 
+================================
+(src)="928"> Right . 
+(trg)="761"> - Just det . 
+================================
+(src)="929"> Right . 
+(trg)="762"> Jaha ... 
+================================
+(src)="930"> Well , I' m going out for a bit . 
+(trg)="763"> Jag går ut en stund . 
+================================
+(src)="931"> Listen , has he ever had any kind of ... girlfriend , boyfriend , a relationship , ever ? 
+(trg)="764"> Har han nånsin haft ett förhållande med nån , tjej eller kille ? 
+================================
+(src)="932"> I don' t know . 
+(trg)="765"> Jag vet inte . 
+================================
+(src)="933"> - How can we not know ? 
+(src)="934"> - He' s Sherlock . 
+(trg)="766"> - Hur är det möjligt att vi inte vet ? 
+================================
+(src)="935"> How will we ever know what goes on in that funny old head ? 
+(trg)="767"> - Ingen vet vad som pågår i hans huvud . 
+================================
+(src)="936"> Right . 
+(src)="937"> See you . 
+(trg)="768"> Hej så länge . 
+================================
+(src)="938"> - John ? 
+(src)="939"> - Yeah ? 
+(trg)="769"> - John ? 
+================================
+(src)="940"> Hello . 
+(trg)="770"> - Ja ? 
+(trg)="771"> Hej . 
+================================
+(src)="941"> Hello . 
+(trg)="772"> - Hallå ... 
+================================
+(src)="942"> So , any plans for New Year tonight ? 
+(trg)="773"> - Har du planer för nyårsafton i kväll ? 
+================================
+(src)="943"> Nothing fixed . 
+(trg)="774"> Inget som är bestämt ... 
+================================
+(src)="944"> Nothing I couldn' t heartlessly abandon , yeah . 
+(trg)="775"> Inget jag inte utan vidare kan strunta i . 
+================================
+(src)="945"> Any ideas ? 
+(trg)="776"> - Har du några förslag ? 
+================================
+(src)="946"> One . 
+(trg)="777"> - Ett . 
+================================
+(src)="947"> You know , Mycroft could just phone me ... ... if he didn' t have this bloody stupid power complex . 
+(trg)="778"> Mycroft kan faktiskt ringa , om han inte hade ett sånt förbaskat maktkomplex . 
+================================
+(src)="948"> Couldn' t we just go to a cafÃ© ? 
+(trg)="779"> Kan vi inte ses på ett kafé ? 
+================================
+(src)="949"> Sherlock doesn' t follow me everywhere . 
+(trg)="780"> Sherlock följer inte efter vart jag än går . 
+================================
+(src)="950"> Through there . 
+(trg)="781"> In där . 
+================================
+(src)="951"> He' s on his way . 
+(trg)="782"> Han är på väg . 
+================================
+(src)="952"> You were right , he thinks it' s Mycroft . 
+(trg)="783"> Han förväntar sig Mycroft , precis som du sa . 
+================================
+(src)="953"> He' s writing sad music . 
+(trg)="784"> Han komponerar sorglig musik . 
+================================
+(src)="954"> Doesn' t eat ... ... barely talks , only to correct the television . 
+(trg)="785"> Äter ingenting . 
+(trg)="786"> Säger knappt ett ord , förutom när han rättar tv : n . 
+================================
+(src)="955"> I' d say he was heartbroken but , well , he' s Sherlock . 
+(trg)="787"> Brustet hjärta , skulle jag säga , men du vet ju hur Sherlock är . 
+================================
+(src)="956"> He does all that anyway ... 
+(trg)="788"> Han beter sig alltid så där . 
+================================
+(src)="957"> Hello , Dr Watson . 
+(trg)="789"> Hej , dr Watson . 
+================================
+(src)="958"> Tell him you' re alive . 
+(src)="959"> - He' d come after me . 
+(trg)="790"> - Låt honom veta att ni lever . 
+================================
+(src)="960"> - I' il come after you if you don' t . 
+(src)="961"> Hmm , I believe you . 
+(trg)="791"> - Han skulle leta upp mig . 
+================================
+(src)="962"> You were dead on a slab . 
+(trg)="792"> Ni låg död på en likbår . 
+================================
+(src)="963"> It was definitely you . 
+(trg)="793"> Det var tveklöst ni . 
+================================
+(src)="964"> DNA tests are only as good as the records you keep . 
+(src)="965"> - And I bet you know the record- keeper . 
+(src)="966"> - I know what he likes . 
+(trg)="794"> Jag råkar veta vad den ansvarige för dna- registret gillar . 
+================================
+(src)="967"> And I needed to disappear . 
+(trg)="795"> - Jag var tvungen att försvinna . 
+================================
+(src)="968"> Then how come I can see you and I don' t even want to ? 
+(trg)="796"> - Varför kan jag i så fall se er ? 
+================================
+(src)="969"> Look , I made a mistake . 
+(trg)="797"> Jag gjorde en miss . 
+================================
+(src)="970"> I sent something to Sherlock for safekeeping and I now I need it back , so I need your help . 
+(trg)="798"> Ni ska hjälpa mig att ta tillbaka en sak från Sherlock . 
+(trg)="799"> - Nej . 
+================================
+(src)="971"> No . 
+(src)="972"> - It' s for his own safety . 
+(trg)="800"> - Det är för hans egen säkerhet . 
+================================
+(src)="973"> - So is this . 
+(src)="974"> Tell him you' re alive . 
+(trg)="801"> - Låt honom veta att ni lever . 
+================================
+(src)="975"> I can' t . 
+(trg)="802"> - Jag kan inte . 
+================================
+(src)="976"> Fine , I' il tell him ... ... and I still won' t help you . 
+(trg)="803"> Då berättar jag det . 
+(trg)="804"> Men vänta er ingen hjälp från mig . 
+================================
+(src)="977"> - What do I say ? 
+(src)="978"> - What do you normally say ? 
+(trg)="805"> - Vad ska jag skriva ? 
+================================
+(src)="979"> You' ve texted him a lot ! 
+(trg)="806"> - Vad brukar ni skriva i era sms ? 
+================================
+(src)="980"> - Just the usual stuff . 
+(trg)="807"> - Vanligt tjafs . 
+================================
+(src)="981"> - There is no usual in this case . 
+(trg)="808"> - " Vanligt " existerar inte här . 
+================================
+(src)="982"> " Good morning . 
+(trg)="809"> " God morgon . 
+================================
+(src)="983"> I like your funny hat . " 
+(trg)="810"> Jag gillar din lustiga hatt . " 
+================================
+(src)="984"> " I' m sad tonight , let' s have dinner . " 
+(trg)="811"> " Jag är ledsen , ät middag med mig . 
+================================
+(src)="985"> " Hmm , you look sexy on Crimewatch , let' s have dinner . " 
+(trg)="812"> Vad sexig du var på tv . " 
+================================
+(src)="986"> " I' m not hungry . " 
+(trg)="813"> " Jag är inte hungrig . 
+================================
+(src)="987"> " Let' s have dinner . " 
+(trg)="814"> Ät middag med mig . " 
+================================
+(src)="988"> - You flirted with Sherlock Holmes ? 
+(src)="989"> - At him . 
+(trg)="815"> Flirtade ni med Sherlock Holmes ? 
+================================
+(src)="990"> He never replies . 
+(trg)="816"> - Han svarar aldrig . 
+================================
+(src)="991"> No , Sherlock always replies , to everything . 
+(trg)="817"> - Sherlock svarar alltid . 
+================================
+(src)="992"> He' s Mr Punchline . 
+(src)="993"> He will outlive God trying to have the last word . 
+(trg)="818"> Han vill säga sista ordet om det så är det sista han gör . 
+================================
+(src)="994"> - Does that make me special ? 
+(trg)="819"> - Betyder det att jag är speciell ? 
+================================
+(src)="995"> - I don' t know , maybe . 
+(trg)="820"> - Kanske det . 
+================================
+(src)="996"> Are you jealous ? 
+(trg)="821"> - Svartsjuk ? 
+================================
+(src)="997"> - We' re not a couple . 
+(src)="998"> - Yes , you are . 
+(trg)="822"> - Vi är inte ett par . 
+================================
+(src)="999"> There . 
+(trg)="823"> Så där . 
+================================
+(src)="1000"> " I' m not dead . 
+(trg)="824"> " Jag är inte död . " 
+================================
+(src)="1001"> Let' s have dinner . " 
+(trg)="825"> " Ät middag med mig . " 
+================================
+(src)="1002"> Who the hell knows about Sherlock Holmes , but for the record ... ... if anyone out there still cares , I' m not actually gay . 
+(trg)="826"> Vem fan vet när det gäller Sherlock - 
+(trg)="827"> - men till den som eventuellt bryr sig : 
+(trg)="828"> Jag är inte homosexuell . 
+================================
+(src)="1003"> Well , I am . 
+(trg)="829"> Men det är jag . 
+================================
+(src)="1004"> Look at us both . 
+(trg)="830"> Se på oss . 
+================================
+(src)="1005"> I don' t think so , do you ? 
+(trg)="831"> Inte just nu . 
+(trg)="832"> Eller ? 
+================================
+(src)="1006"> Stop it ! 
+(trg)="833"> Sluta ! 
+================================
+(src)="1007"> Sherlock ! 
+(trg)="834"> Sherlock ! 
+================================
+(src)="1008"> Oh , Sherlock . 
+(src)="1009"> Sherlock . 
+(trg)="835"> Sherlock ... 
+================================
+(src)="1010"> Don' t snivel , Mrs Hudson . 
+(trg)="836"> Snyfta inte , mrs Hudson . 
+================================
+(src)="1011"> It' il do nothing to impede the flight of a bullet . 
+(trg)="837"> Det hindrar inte kulans framfart . 
+================================
+(src)="1012"> - What a tender world that would be . 
+(src)="1013"> - Oh , please , sorry , Sherlock . 
+(trg)="838"> I så fall levde vi en mjuk värld . 
+================================
+(src)="1014"> I believe you have something that we want , Mr Holmes . 
+(trg)="839"> - Ni har nåt vi vill ha , mr Holmes . 
+================================
+(src)="1015"> Then why don' t you ask for it ? 
+(trg)="840"> - Fråga efter det , då . 
+================================
+(src)="1016"> I' ve been asking this one , she doesn' t seem to know anything . 
+(trg)="841"> Jag har frågat den här , men hon vet visst ingenting . 
+================================
+(src)="1017"> But you know what I' m asking for , don' t you , Mr Holmes ? 
+(trg)="842"> Men ni vet vad jag vill ha , inte sant ? 
+================================
+(trg)="843"> HALSPULSÅDER , ÖGON , LUNGOR , REVBEN 
+================================
+(src)="1018"> I believe I do . 
+(trg)="844"> Jag tror minsann det . 
+================================
+(src)="1019"> Please help . 
+================================
+(src)="1020"> - First get rid of your boys . 
+(src)="1021"> - Why ? 
+(trg)="845"> Skicka ut lakejerna först . 
+================================
+(src)="1022"> I dislike being outnumbered , it makes for too much stupid in the room . 
+(trg)="846"> Det är för mycket enfald här inne . 
+================================
+(src)="1023"> - You two , go to the car . 
+(trg)="847"> - Gå till bilen . 
+================================
+(src)="1024"> - Then get into the car and drive away . 
+(trg)="848"> - Och kör i väg . 
+================================
+(src)="1025"> Don' t try to trick me , you know who I am , it doesn' t work . 
+(trg)="849"> Försök inte lura mig . 
+================================
+(src)="1026"> Next , you can stop pointing that gun at me . 
+(trg)="850"> Nu kan ni lägga undan pistolen . 
+================================
+(src)="1027"> - So you can point a gun at me ? 
+(src)="1028"> - I' m unarmed . 
+(trg)="851"> Jag är obeväpnad . 
+================================
+(src)="1029"> - Mind if I check ? 
+(trg)="852"> - Får jag se efter ? 
+================================
+(src)="1030"> - Oh , I insist . 
+(src)="1031"> Don' t do anything ... 
+(trg)="853"> - Det insisterar jag på . 
+================================
+(src)="1032"> Moron ! 
+(trg)="854"> Idiot . 
+================================
+(src)="1033"> - Oh , thank you . 
+(trg)="855"> - Tack ... 
+================================
+(src)="1034"> - You' re all right now , you' re all right . 
+(trg)="856"> - Det är över nu . 
+================================
+(src)="1035"> Oh ! 
+================================
+(trg)="857"> BROTT PÅGÅR STÖR GÄRNA 
+================================
+(src)="1036"> What' s going on ? 
+(trg)="858"> Vad är det frågan om ? 
+================================
+(src)="1037"> Jesus , what the hell is happening ? 
+(trg)="859"> Vad fasen är det här ? 
+================================
+(src)="1038"> Mrs Hudson has been attacked by an American . 
+(src)="1039"> - I' m restoring balance to the universe . 
+(src)="1040"> - Mrs Hudson , my God , are you all right ? 
+(trg)="860"> Mrs Hudson blev överfallen av en amerikan och jag återställer ordningen . 
+================================
+(src)="1041"> - Jesus , what have they done to you ? 
+(trg)="861"> - Vad har de gjort ? 
+================================
+(src)="1042"> - Oh , I' m just being so silly . 
+(trg)="862"> - Jag är så fånig ... 
+================================
+(src)="1043"> Downstairs , take her downstairs and look after her . 
+(trg)="863"> - Följ henne ner och ta hand om henne . 
+================================
+(src)="1044"> It' s all right . 
+(trg)="864"> - Ingen fara ... 
+================================
+(src)="1045"> It' s all right now . 
+(src)="1046"> - I' il have a look at that . 
+(trg)="865"> - Jag tar en titt på det där . 
+================================
+(src)="1047"> - I' m fine , I' m fine . 
+(trg)="866"> - Jag mår bra ... 
+================================
+(src)="1048"> - Are you going to tell me what' s going on ? 
+(trg)="867"> - Ska du berätta vad som pågår ? 
+================================
+(src)="1049"> - I expect so , now go . 
+(trg)="868"> - Förmodligen , men gå nu . 
+================================
+(src)="1050"> Lestrade ? 
+(trg)="869"> Lestrade ? 
+================================
+(src)="1051"> We' ve had a break- in at Baker Street . 
+(trg)="870"> Vi har haft inbrott på Baker Street . 
+================================
+(src)="1052"> Send your least irritating officers and an ambulance . 
+(trg)="871"> Skicka dina minst irriterande poliser i en ambulans . 
+================================
+(src)="1053"> Oh , no , no , no , no , we' re fine . 
+(trg)="872"> Vi är oskadda . 
+================================
+(src)="1054"> No , it' s the , uh , it' s the burglar , he' s got himself rather badly injured . 
+(trg)="873"> Inbrottstjuven däremot ... 
+(trg)="874"> Han blev illa tilltygad . 
+================================
+(src)="1055"> Oh , a few broken ribs , fractured skull suspected punctured lung . 
+(trg)="875"> Några brutna revben , skallfraktur , förmodligen punkterad lunga ... 
+================================
+(src)="1056"> He fell out of a window . 
+(trg)="876"> Han föll ut genom fönstret . 
+================================
+(src)="1057"> Oh , it stings . 
+(trg)="877"> Det svider . 
+================================
+(src)="1058"> Oh , that was right on my bins . 
+(trg)="878"> Rakt på soptunnorna . 
+================================
+(src)="1059"> And exactly how many times did he fall out of the window ? 
+(trg)="879"> - Exakt hur många gånger föll han ? 
+================================
+(src)="1060"> It' s all a bit of a blur Detective Inspector . 
+(trg)="880"> - Det är något av ett töcken . 
+================================
+(src)="1061"> I lost count . 
+(trg)="881"> Jag tappade räkningen . 
+================================
+(src)="1062"> She' il have to sleep upstairs in our flat tonight . 
+(src)="1063"> - We need to look after her . 
+(trg)="882"> Hon får sova hos oss i natt . 
+================================
+(src)="1064"> - No . 
+(src)="1065"> - She' s fine . 
+(trg)="883"> - Hon mår bra . 
+================================
+(src)="1066"> - No , she' s not , look at her . 
+(trg)="884"> - Det gör hon inte alls . 
+================================
+(src)="1067"> She' s got to take some time away from Baker Street . 
+(src)="1068"> She can go and stay with her sister . 
+(src)="1069"> Doctor' s orders . 
+(trg)="885"> Hon behöver komma ifrån Baker Street och bo hos sin syster ett tag . 
+================================
+(src)="1070"> - Don' t be absurd . 
+(src)="1071"> - She' s in shock , for God' s sake ... ... and all over some bloody stupid camera- phone . 
+(trg)="886"> Hon är chockad , och det på grund av en kameramobil . 
+================================
+(src)="1072"> - Where is it , anyway ? 
+(trg)="887"> Var är den förresten ? 
+================================
+(src)="1073"> - Safest place I know . 
+(trg)="888"> - På världens säkraste plats . 
+================================
+(src)="1074"> You left it in the pocket of your second- best dressing gown , you clot ! 
+(trg)="889"> - Den låg i fickan på din morgonrock . 
+================================
+(src)="1075"> I managed to sneak it out when they thought I was having a cry . 
+(src)="1076"> Thank you . 
+(trg)="890"> Jag lyckades smussla ut den när de trodde att jag grät . 
+================================
+(src)="1077"> - Shame on you , John Watson . 
+(trg)="891"> Du borde skämmas , John Watson . 
+================================
+(src)="1078"> - Shame on me ? 
+(src)="1079"> Mrs Hudson leave Baker Street ? 
+(trg)="892"> Skulle mrs Hudson lämna Baker Street ? 
+================================
+(src)="1080"> England would fall . 
+(trg)="893"> England skulle rasa samman . 
+================================
+(src)="1081"> - Where is it now ? 
+(trg)="894"> - Var är den nu ? 
+================================
+(src)="1082"> - Where no one will look . 
+(trg)="895"> - På en plats där ingen letar . 
+================================
+(src)="1083"> Whatever' s on that phone is more than just pictures . 
+(src)="1084"> Yes , it is . 
+(trg)="896"> - Det finns mer än bilder på mobilen . 
+================================
+(trg)="897"> - Det stämmer . 
+================================
+(src)="1085"> So , she' s alive , then . 
+(trg)="898"> Med andra ord ljög hon . 
+================================
+(src)="1086"> How are we feeling about that ? 
+(trg)="899"> Hur känns det ? 
+================================
+(src)="1087"> - Happy New Year , John . 
+(trg)="900"> - Gott nytt år , John . 
+================================
+(src)="1088"> - Do you think you' il be seeing her again ? 
+(trg)="901"> - Kommer du att träffa henne igen ? 
+================================
+(trg)="902"> GOTT NYTT ÅR SH 
+================================
+(src)="1089"> - Is that a phone ? 
+(trg)="903"> - Är det en mobil ? 
+================================
+(src)="1090"> - It' s a camera- phone . 
+(trg)="904"> - Ja . 
+================================
+(src)="1091"> - And you' re x- raying it ? 
+(trg)="905"> - Som du röntgar ? 
+================================
+(src)="1092"> - Yes , I am . 
+(src)="1093"> - Whose phone is it ? 
+(trg)="906"> Vems är det ? 
+================================
+(src)="1094"> - A woman' s . 
+(trg)="907"> - En kvinnas . 
+================================
+(src)="1095"> Your girlfriend ? 
+(trg)="908"> - Din flickväns ? 
+================================
+(src)="1096"> You think she' s my girlfriend because I' m x- raying her possessions ? 
+(trg)="909"> - Skulle jag röntga min flickväns saker ? 
+================================
+(src)="1097"> - Well , we all do silly things ! 
+(src)="1098"> - Yes . 
+(trg)="910"> - Alla gör vi dumma saker . 
+================================
+(trg)="911"> - Ja . 
+================================
+(src)="1099"> They do , don' t they ? 
+(trg)="912"> Det är just det de gör . 
+================================
+(src)="1100"> Very silly . 
+(trg)="913"> Väldigt dumma . 
+================================
+(src)="1101"> She sent this to my address . 
+(trg)="914"> Hon skickade mobilen till min adress . 
+================================
+(src)="1102"> And she loves to play games . 
+(src)="1103"> She does ? 
+(trg)="915"> Och hon älskar lekar ... 
+================================
+(trg)="916"> FEL KOD TVÅ FÖRSÖK ÅTERSTÅR 
+================================
+(src)="1104"> Hey , Sherlock ... 
+(trg)="917"> - Sherlock ! 
+================================
+(src)="1105"> - We have a client . 
+(trg)="918"> - Vi har en ny klient . 
+================================
+(src)="1106"> - What , in your bedroom ? 
+(trg)="919"> I ditt sovrum ? 
+================================
+(src)="1107"> Oh . 
+(trg)="920"> Jaha ... 
+================================
+(src)="1108"> - So , who' s after you ? 
+(src)="1109"> - People who want to kill me . 
+(trg)="921"> - Vilka är det som jagar dig ? 
+================================
+(src)="1110"> - Who' s that ? 
+(trg)="922"> - Folk som vill döda mig . 
+================================
+(src)="1111"> - Killers . 
+(trg)="923"> Mördare . 
+================================
+(src)="1112"> It would help if you were a tiny bit more specific . 
+(trg)="924"> - Du får gärna precisera dig . 
+================================
+(src)="1113"> So you faked your own death in order to get ahead of them ? 
+(src)="1114"> It worked for a while . 
+(trg)="925"> - Så du iscensatte din egen död ? 
+================================
+(src)="1115"> Except you let John know that you' re alive and therefore me . 
+(trg)="926"> - Men du lät oss veta att du levde . 
+================================
+(src)="1116"> - I knew you' d keep my secret . 
+(src)="1117"> - You couldn' t . 
+(trg)="927"> - Jag visste att du kunde hålla tyst . 
+================================
+(src)="1118"> But you did , didn' t you ? 
+(trg)="928"> Och det gjorde du . 
+================================
+(src)="1119"> - Where' s my camera- phone ? 
+(trg)="929"> - Var är kameramobilen ? 
+================================
+(src)="1120"> - It' s not here . 
+(trg)="930"> - Inte här . 
+================================
+(src)="1121"> We' re not stupid . 
+(trg)="931"> Vi är inte dumma . 
+================================
+(src)="1122"> Then what have you done with it ? 
+(trg)="932"> Var har ni gömt den ? 
+================================
+(src)="1123"> If they' ve guessed you' ve got it , they' il be watching you . 
+(trg)="933"> Ni kan vara bevakade . 
+================================
+(src)="1124"> If they' ve been watching me , they' il know that I took ... ... a safety deposit box at a bank on the Strand a few months ago . 
+(trg)="934"> I så fall känner de till mitt bankfack . 
+================================
+(src)="1125"> I need it . 
+(trg)="935"> - Jag behöver den . 
+================================
+(src)="1126"> Well , we can' t just go and get it , can we ? 
+(trg)="936"> - Vi kan inte bara åka och hämta den . 
+================================
+(src)="1127"> Molly Hooper . 
+(src)="1128"> She could collect it and take it to Barts . 
+(trg)="937"> Molly Hooper kan ta den till sjukhuset . 
+================================
+(src)="1129"> Then one of your homeless network could bring it here ... ... leave it in the cafÃ© and one of the boys downstairs could bring it up the back . 
+(trg)="938"> En av dina hemlösa kontakter - 
+(trg)="939"> - kan lämna av den i kaféet , så tar grabbarna upp den bakvägen . 
+================================
+(src)="1130"> Very good , John , excellent plan , full of intelligent precautions . 
+(src)="1131"> Thank you . 
+(src)="1132"> So , why don' t I phone ... 
+(trg)="940"> En utmärkt plan med alla tänkbara försiktighetsmått . 
+================================
+(src)="1133"> So ... ... what do you keep on here ? 
+(src)="1134"> In general , I mean ? 
+(trg)="941"> Så ... vad sparar du i telefonen ? 
+================================
+(trg)="942"> I allmänhet , menar jag . 
+================================
+(src)="1135"> Pictures , information , anything I might find useful . 
+(trg)="943"> Bilder och information jag kan behöva . 
+================================
+(src)="1136"> - For blackmail ? 
+(src)="1137"> - For protection . 
+(trg)="944"> För att garantera min egen säkerhet . 
+================================
+(src)="1138"> I make my way in the world , I misbehave . 
+(src)="1139"> I like to know people will be on my side exactly when I need them to be . 
+(trg)="945"> Jag bär mig illa åt och vill kunna försäkra mig om andras lojalitet . 
+================================
+(src)="1140"> - So how do you acquire this information ? 
+(trg)="946"> - Var får du informationen ifrån ? 
+================================
+(src)="1141"> - I told you , I misbehave . 
+(trg)="947"> - Jag bär mig illa åt . 
+================================
+(src)="1142"> But you' ve acquired something that' s more danger than protection . 
+(trg)="948"> - Nåt hotar din säkerhet . 
+================================
+(src)="1143"> - Do you know what it is ? 
+(trg)="949"> Vet du vad ? 
+================================
+(src)="1144"> - Yes . 
+(trg)="950"> - Ja . 
+================================
+(src)="1145"> - But I don' t understand it . 
+(src)="1146"> - I assumed . 
+(trg)="951"> - Men jag förstår det inte . 
+================================
+(src)="1147"> Show me . 
+(trg)="952"> - Jag misstänkte det . 
+================================
+(trg)="953"> Visa mig . 
+================================
+(src)="1148"> The passcode . 
+(trg)="954"> Koden . 
+================================
+(src)="1149"> - It' s not working . 
+(src)="1150"> - No . 
+(trg)="955"> - Det fungerar inte . 
+================================
+(src)="1151"> Because it' s a duplicate that I had made ... ... into which you' ve just entered the numbers 1058 . 
+(trg)="956"> - Du har knappat in koden på en kopia . 
+================================
+(src)="1152"> I assumed you' d choose something more specific than that , but thanks anyway . 
+(trg)="957"> Jag hade förväntat mig nåt mer avancerat , men tack ändå . 
+================================
+(trg)="958"> FEL KOD ETT FÖRSÖK ÅTERSTÅR 
+================================
+(src)="1153"> I told you that camera- phone was my life . 
+(trg)="959"> Jag sa ju att kameramobilen är mitt liv . 
+================================
+(src)="1154"> I know when it' s in my hand . 
+(trg)="960"> Jag känner igen den . 
+================================
+(src)="1155"> - Oh , you' re rather good . 
+(trg)="961"> - Du är skicklig . 
+================================
+(src)="1156"> - You' re not so bad . 
+(trg)="962"> - Du är inte heller pjåkig . 
+================================
+(src)="1157"> Hamish . 
+(trg)="963"> Hamish ! 
+================================
+(src)="1158"> John Hamish Watson , just if you were looking for baby names . 
+(trg)="964"> John Hamish Watson . 
+(trg)="965"> Det kan ni döpa ert barn till . 
+================================
+(src)="1159"> There was a man , an MOD official and I knew what he liked . 
+(trg)="966"> Jag kände en man som jobbade på försvarsdepartementet . 
+================================
+(src)="1160"> One of the things he liked was showing off . 
+(trg)="967"> Han ville gärna briljera . 
+================================
+(src)="1161"> He told me this email was going to save the world . 
+(trg)="968"> Han hade ett mejl som skulle frälsa världen . 
+================================
+(src)="1162"> He didn' t know it , but I photographed it . 
+(src)="1163"> He was a bit tied up at the time . 
+(trg)="969"> Jag fotograferade det medan han var uppbunden med annat . 
+================================
+(src)="1164"> It' s a bit small on that screen , can you read it ? 
+(src)="1165"> - Yes . 
+(trg)="970"> - Ser du att läsa på skärmen ? 
+================================
+(src)="1166"> - Code , obviously . 
+(trg)="971"> - Ja . 
+================================
+(src)="1167"> I had one of the best cryptographers in the country take a look at it ... ... though he was mostly upside- down , as I recall . 
+(trg)="972"> Jag lät en kryptograf titta på det , men han hängde mestadels uppochned . 
+================================
+(src)="1168"> Couldn' t figure it out . 
+(trg)="973"> Han kunde inte knäcka koden . 
+================================
+(src)="1169"> What can you do , Mr Holmes ? 
+(trg)="974"> Vad kan du göra ? 
+================================
+(src)="1170"> Go on , impress a girl . 
+(trg)="975"> Imponera på mig om du kan ... 
+================================
+(src)="1171"> There' s a margin for error , but I' m pretty sure there' s a 747 ... ... leaving Heathrow tomorrow at 6 : 30 in the evening for Baltimore . 
+(trg)="976"> Ett plan avgår från Heathrow till Baltimore i morgon kl . 
+(trg)="977"> 18 . 30 . 
+================================
+(src)="1172"> Apparently it' s going to save the world , I' m not sure how that could be true ... ... but give me a moment , I' ve only been on the case for eight seconds . 
+(trg)="978"> Hur det kan frälsa världen kan jag inte uttala mig om på bara åtta sekunder . 
+================================
+(src)="1173"> Oh come on , it' s not code , these are seat allocations on a passenger jet . 
+(trg)="979"> Det är platser på ett passagerarplan . 
+================================
+(src)="1174"> Look ! 
+(src)="1175"> There' s no letter I because it can be mistaken for a one . 
+(src)="1176"> No letters past K , the width of the plane is the limit . 
+(trg)="980"> Inga i : n , för de kan misstas för ettor , och inga bokstäver efter " k " . 
+================================
+(src)="1177"> The numbers always appear randomly and not in sequence ... ... but the letters have little runs of sequence all over the place . 
+(src)="1178"> Families and couples sitting together . 
+(trg)="981"> Siffrorna uppträder slumpmässigt men bokstäverna kommer i ordningsföljd . 
+================================
+(src)="1179"> Only a jumbo is wide enough to need a letter K or rows past 55 ... ... which is why there' s always an upstairs . 
+(trg)="982"> Bara en jumbojet har fler än 55 rader . 
+================================
+(src)="1180"> There' s a row 13 , which eliminates the more superstitious airlines . 
+(trg)="983"> Att rad 13 finns utesluter vidskepliga bolag . 
+================================
+(src)="1181"> Then there' s the style of the flight number , 007 , that eliminates a few more . 
+(trg)="984"> Flightnumret 007 utesluter fler . 
+================================
+(src)="1182"> And assuming the British point of origin , which would be logical ... ... considering the original source of the information ... ... and assuming from the increased pressure on you lately that the crisis is imminent . 
+(trg)="985"> Avgång från Storbritannien är sannolikt med tanke på källan till informationen . 
+================================
+(src)="1183"> The only flight that matches all the criteria and departs within the week ... ... is the 6 : 30 to Baltimore tomorrow evening from Heathrow airport . 
+(trg)="986"> Det enda som stämmer med kriterierna är just 18 . 30- flyget till Baltimore . 
+================================
+(src)="1184"> Please don' t feel obliged to tell me that was remarkable or amazing . 
+(trg)="987"> Säg inte att det var makalöst . 
+================================
+(src)="1185"> John' s expressed that thought in every possible variant ... ... available to the English language . 
+(trg)="988"> Det har John redan gjort på alla tänkbara sätt . 
+================================
+(src)="1186"> I would have you right here , on this desk , until you begged for mercy twice . 
+(trg)="989"> Jag skulle kunna ta dig här och nu tills du bad om nåd två gånger om . 
+================================
+(src)="1187"> John , please can you check those flight schedules , see if I' m right ? 
+(src)="1188"> Yeah . 
+(trg)="990"> - John , kolla avgående flighter . 
+================================
+(src)="1189"> I' m on it , yeah . 
+(trg)="991"> - Visst ... 
+(trg)="992"> Ska bli . 
+================================
+(src)="1190"> - I' ve never begged for mercy in my life . 
+(trg)="993"> - Jag har aldrig nånsin bett om nåd . 
+(trg)="994"> - Två gånger . 
+================================
+(src)="1191"> - Twice . 
+(trg)="995"> - Du har rätt . 
+================================
+(src)="1192"> Uh , yeah , you' re right , flight 007 . 
+(trg)="996"> Flight 007 . 
+================================
+(src)="1193"> - What did you say ? 
+(trg)="997"> - Vad sa du ? 
+================================
+(src)="1194"> - You' re right . 
+(trg)="998"> - Du har rätt . 
+================================
+(src)="1195"> No , no , after that , what did you say after that ? 
+(trg)="999"> - Nej , efter det . 
+================================
+(src)="1196"> 007 . 
+(src)="1197"> Flight 007 . 
+(trg)="1000"> - Flight 007 . 
+================================
+(src)="1198"> 007 , 007 , 007 , 007 . 
+(src)="1199"> Something . 
+(trg)="1001"> - 007 , 007 ... 
+================================
+(src)="1200"> Something 007 , 007 . 
+(src)="1201"> What ? 
+(trg)="1002"> Nåt med 007 , men vad ? 
+================================
+(src)="1202"> Something 007 . 
+(trg)="1003"> 747 IMORGON 18 . 30 HEATHROW 
+================================
+(src)="1203"> 007 . 
+(src)="1204"> 007 what ? 
+(src)="1205"> What , something , what ? 
+(trg)="1004"> Nåt med 007 , men vad ? 
+================================
+(src)="1206"> Bond Air is go . 
+(src)="1207"> Bond Air is go . 
+(trg)="1005"> Grönt ljus för Bond Air . 
+================================
+(src)="1208"> Bond Air is go . 
+(trg)="1006"> Grönt ljus för Bond Air . 
+================================
+(src)="1209"> Bond Air is go . 
+(trg)="1007"> FLYGPLANET . 
+(trg)="1008"> SER MAN PÅ , MR HOLMES . 
+================================
+(src)="1210"> Bond Air is go . 
+================================
+(trg)="1009"> FLYGPLANET . 
+================================
+(trg)="1010"> SER MAN PÅ , MR HOLMES . 
+================================
+(src)="1211"> Bond Air is go , that' s decided . 
+(trg)="1011"> Grönt ljus för Bond Air . 
+================================
+(src)="1212"> Check with the Coventry lot . 
+(trg)="1012"> Kolla med Coventry . 
+================================
+(src)="1213"> - Coventry . 
+(src)="1214"> - I' ve never been . 
+(trg)="1013"> - Coventry . 
+================================
+(src)="1215"> Is it nice ? 
+(trg)="1014"> - Jag har aldrig varit där . 
+(trg)="1015"> Är det fint ? 
+================================
+(src)="1216"> Where' s John ? 
+(trg)="1016"> - Var är John ? 
+================================
+(src)="1217"> He went out , a couple of hours ago . 
+(trg)="1017"> - Han gick ut för några timmar sen . 
+================================
+(src)="1218"> - I was just talking to him . 
+(src)="1219"> - He said you do that . 
+(trg)="1018"> Det var honom jag pratade med . 
+================================
+(src)="1220"> What' s Coventry got to do with anything ? 
+(trg)="1019"> Vad har Coventry med saken att göra ? 
+================================
+(src)="1221"> It' s a story . 
+(src)="1222"> Probably not true . 
+(trg)="1020"> Det påstås , förmodligen felaktigt - 
+================================
+(src)="1223"> In the Second World War the Allies knew that Coventry was going to get bombed ... ... because they' d broken the German code ... ... but they didn' t want the Germans to know that they' d broken the code . 
+(trg)="1021"> - att de allierade visste att Coventry skulle bombas . 
+(trg)="1022"> De ville inte avslöja att de knäckt tyskarnas kod , så de lät det ske . 
+================================
+(src)="1224"> - So they let it happen anyway . 
+================================
+(src)="1225"> - Have you ever had anyone ? 
+(src)="1226"> I' m sorry ? 
+(trg)="1023"> Har du nånsin varit med nån ? 
+================================
+(trg)="1024"> - Ursäkta ? 
+================================
+(src)="1227"> And when I say had , I' m being indelicate . 
+(trg)="1025"> - Nu är jag ofinkänslig . 
+================================
+(src)="1228"> - I don' t understand . 
+(trg)="1026"> - Jag förstår inte . 
+================================
+(src)="1229"> - I' il be delicate , then . 
+(trg)="1027"> - Då ska jag vara finkänslig . 
+================================
+(src)="1230"> - Let' s have dinner . 
+(src)="1231"> - Why ? 
+(trg)="1028"> - Ät middag med mig . 
+================================
+(src)="1232"> - You might be hungry . 
+(src)="1233"> - I' m not . 
+(src)="1234"> Good . 
+(trg)="1029"> - Jag är inte hungrig . 
+================================
+(src)="1235"> Why would I want to have dinner ... ... if I wasn' t hungry ? 
+(trg)="1030"> Varför skulle jag vilja äta middag ... ... om jag inte är hungrig ? 
+================================
+(src)="1236"> Mr Holmes ... ... if it was the end of the world , if this was the very last night ... ... would you have dinner with me ? 
+(trg)="1031"> Om världens undergång var nära och det här var sista kvällen ... ... skulle du då tacka ja ? 
+================================
+(src)="1237"> Sherlock ? 
+(trg)="1032"> - Sherlock ! 
+================================
+(src)="1238"> Too late . 
+(trg)="1033"> - För sent . 
+================================
+(src)="1239"> That' s not the end of the world , that' s Mrs Hudson . 
+(trg)="1034"> Mrs Hudson är inte världens undergång . 
+================================
+(src)="1240"> Sherlock , this man was at the door . 
+(trg)="1035"> Den här herrn stod utanför dörren . 
+================================
+(src)="1241"> Is the bell still not working ? 
+(src)="1242"> He shot it . 
+(trg)="1036"> Fungerar inte dörrklockan ? 
+================================
+(src)="1243"> - Have you come to take me away again ? 
+(src)="1244"> - Yes , Mr Holmes . 
+(trg)="1037"> Är ni här för att hämta mig igen ? 
+================================
+(src)="1245"> - Well , I decline . 
+(trg)="1038"> Jag avböjer . 
+================================
+(src)="1246"> - I don' t think you do . 
+(trg)="1039"> Det betvivlar jag . 
+================================
+(src)="1247"> There' s going to be a bomb on a passenger jet . 
+(src)="1248"> The British and American governments know about it ... ... but rather than expose the source of their information ... ... they' re going to let it happen . 
+(trg)="1040"> Det finns en bomb på planet , men högsta ort vill inte avslöja källan - 
+================================
+(src)="1249"> The plane will blow up . 
+(trg)="1041"> - så planet kommer att sprängas . 
+================================
+(src)="1250"> Coventry all over again . 
+(trg)="1042"> Precis som med Coventry . 
+================================
+(src)="1251"> The wheel turns , nothing is ever new . 
+(trg)="1043"> Historien återupprepar sig i det oändliga . 
+================================
+(src)="1252"> Well ... ... you' re looking all better . 
+(trg)="1044"> Ni ser piggare ut . 
+================================
+(src)="1253"> - How are you feeling ? 
+(trg)="1045"> - Hur känns det ? 
+================================
+(src)="1254"> - Like putting a bullet in your brain , sir . 
+(trg)="1046"> - Som att jag vill skjuta skallen av er . 
+================================
+(src)="1255"> They' d pin a medal on me if I did , sir . 
+(trg)="1047"> Jag skulle få medalj för det . 
+================================
+(src)="1256"> The Coventry conundrum . 
+(trg)="1048"> Coventry- problemet . 
+================================
+(src)="1257"> What do you think of my solution ? 
+(trg)="1049"> Vad tycker du om min lösning ? 
+================================
+(src)="1258"> The flight of the dead . 
+(trg)="1050"> De dödas flygning . 
+================================
+(src)="1259"> Plane blows up midair , mission accomplished for the terrorists ... ... hundreds of casualties but nobody dies . 
+(trg)="1051"> Terroristerna får genomföra sitt dåd . 
+(trg)="1052"> Hundratals offer , men ingen dör . 
+================================
+(src)="1260"> Neat , don' t you think ? 
+(trg)="1053"> Finurligt , inte sant ? 
+================================
+(src)="1261"> You' ve been stumbling around the fringes of this one for ages . 
+(trg)="1054"> Du har snubblat runt i periferin av det här projektet . 
+================================
+(src)="1262"> Or were you too bored to notice the pattern ? 
+(trg)="1055"> Var du för uttråkad för att se mönstret ? 
+================================
+(src)="1263"> They wouldn' t let us see Granddad when he was dead . 
+(trg)="1056"> Vi fick inte se farfar när han var död . 
+================================
+(src)="1264"> She' s not my real aunt . 
+(trg)="1057"> Min faster är utbytt . 
+================================
+(src)="1265"> I know human ash . 
+(trg)="1058"> Det här är inte människoaska . 
+================================
+(src)="1266"> We ran a similar project with the Germans a while back ... ... though I believe one of our passengers didn' t make the flight . 
+(trg)="1059"> Vi gjorde detsamma i Tyskland , men en av passagerarna hann inte med flyget . 
+================================
+(src)="1267"> But that' s the deceased for you ... ... late , in every sense of the word . 
+(trg)="1060"> Sådana är de avlidna . 
+(trg)="1061"> För sent ute , i alla avseenden . 
+================================
+(src)="1268"> How is the plane going to fly ? 
+(trg)="1062"> Hur ska planet kunna flyga ? 
+================================
+(src)="1269"> Oh , of course , unmanned aircraft hardly new . 
+(trg)="1063"> Obemannat plan , så klart ... 
+================================
+(src)="1270"> It doesn' t fly . 
+(src)="1271"> It will never fly . 
+(trg)="1064"> Det kommer aldrig att starta . 
+================================
+(src)="1272"> This entire project is cancelled . 
+(trg)="1065"> Projektet är avblåst . 
+================================
+(src)="1273"> The terrorist cells have been informed that we know about the bomb . 
+(src)="1274"> We can' t fool them now . 
+(trg)="1066"> Terroristgruppen har informerats om att vi känner till bomben . 
+================================
+(src)="1275"> We' ve lost everything . 
+(trg)="1067"> Vi har förlorat allt . 
+================================
+(src)="1276"> One fragment of one email and months and years of planning ... ... finished . 
+(trg)="1068"> Ett fragment ur ett mejl - 
+(trg)="1069"> - och flera års planering gick om intet . 
+================================
+(src)="1277"> - Your MOD man . 
+(src)="1278"> - That' s all it takes . 
+(trg)="1070"> Mannen på försvarsdepartementet ... 
+================================
+(src)="1279"> One lonely , naive man , desperate to show off ... ... and a woman clever enough to make him feel special . 
+(trg)="1071"> En ensam , naiv man som ville briljera . 
+(trg)="1072"> Och en kvinna som kunde få honom att känna sig utvald . 
+================================
+(src)="1280"> You should screen your defence people more carefully . 
+(trg)="1073"> - Du måste ha koll på tjänstemännen . 
+================================
+(src)="1281"> I' m not talking about the MOD man , Sherlock , I' m talking about you ! 
+(trg)="1074"> - Det är dig jag pratar om , Sherlock ! 
+================================
+(src)="1282"> A damsel in distress . 
+(trg)="1075"> En kvinna i nöd ... 
+================================
+(src)="1283"> In the end , are you really so obvious ? 
+(trg)="1076"> Är du verkligen så förutsägbar ? 
+================================
+(src)="1284"> Because this was textbook . 
+(trg)="1077"> För det var som taget ur en handbok . 
+================================
+(src)="1285"> The promise of love , the pain of loss , the joy of redemption . 
+(trg)="1078"> Löftet om kärlek , den smärtande saknaden och återföreningens glädje ... 
+================================
+(src)="1286"> Then give him a puzzle and watch him dance . 
+(trg)="1079"> Ge honom en gåta och se hur han sprattlar . 
+================================
+(src)="1287"> - Don' t be absurd ! 
+(src)="1288"> - Absurd ? 
+(trg)="1080"> - Det är befängt . 
+================================
+(trg)="1081"> - Befängt ? 
+================================
+(src)="1289"> How quickly did you decipher that email for her ? 
+(trg)="1082"> Hur snabbt dechiffrerade du mejlet ? 
+================================
+(src)="1290"> Was it the full minute ? 
+(src)="1291"> - Or were you really eager to impress ? 
+(trg)="1083"> Var du angelägen om att imponera ? 
+================================
+(src)="1292"> - I think it was less than five seconds . 
+(trg)="1084"> Det tog inte ens fem sekunder . 
+================================
+(src)="1293"> I drove you into her path . 
+(trg)="1085"> Jag förde dig i hennes väg . 
+================================
+(src)="1294"> I' m sorry ... 
+(src)="1295"> I didn' t know . 
+(trg)="1086"> Förlåt mig , jag visste inte . 
+================================
+(src)="1296"> - Mr Holmes , I think we need to talk . 
+(trg)="1087"> - Mr Holmes , vi behöver prata . 
+================================
+(src)="1297"> - So do I . 
+(src)="1298"> There are a number of aspects I' m still not quite clear on . 
+(trg)="1088"> - Det är flera saker jag inte riktigt ... 
+================================
+(src)="1299"> Not you , Junior , you' re done now . 
+(trg)="1089"> Du har gjort ditt , junior . 
+================================
+(src)="1300"> There' s more , loads more . 
+(trg)="1090"> - Det finns mycket mer . 
+================================
+(src)="1301"> On this phone I' ve got secrets and pictures and scandals ... ... that could topple your whole world . 
+(trg)="1091"> Här finns hemligheter och bilder som kan rasera hela er värld . 
+================================
+(src)="1302"> You have no idea how much havoc I can cause and exactly one way to stop me . 
+(trg)="1092"> Det finns bara ett sätt att stoppa mig - 
+================================
+(src)="1303"> Unless you want to tell your masters that your biggest security leak ... ... is your own little brother . 
+(trg)="1093"> - om ni inte vill avslöja att lillebror är den största säkerhetsläckan . 
+================================
+(src)="1304"> We have people who can get into this . 
+(trg)="1094"> - Experter kan komma åt innehållet . 
+================================
+(src)="1305"> I tested that theory for you . 
+(trg)="1095"> - Jag har redan testat den teorin . 
+================================
+(src)="1306"> I let Sherlock Holmes try it for six months . 
+(trg)="1096"> Jag lät Sherlock försöka i ett halvår . 
+================================
+(src)="1307"> Sherlock , dear , tell him what you found when you x- rayed my camera- phone . 
+(trg)="1097"> - Berätta vad du upptäckte i mobilen . 
+================================
+(src)="1308"> There are four additional units wired inside the casing . 
+(src)="1309"> I suspect containing acid or a small amount of explosive . 
+(trg)="1098"> Det finns fyra enheter inuti höljet , innehållande syra eller sprängämnen . 
+================================
+(src)="1310"> Any attempt to open the casing will burn the hard drive . 
+(trg)="1099"> - Om höljet öppnas förstörs hårddisken . 
+================================
+(src)="1311"> Explosive . 
+(trg)="1100"> - Sprängämnen . 
+================================
+(src)="1312"> - It' s more me . 
+(trg)="1101"> Det är mer min stil . 
+================================
+(src)="1313"> - Some data is always recoverable . 
+(src)="1314"> Take that risk . 
+(trg)="1102"> En viss mängd data kan alltid återskapas . 
+================================
+(src)="1315"> You have a passcode to open this . 
+(src)="1316"> I deeply regret to say we have people who can extract it from you . 
+(src)="1317"> Sherlock ? 
+(trg)="1103"> Det är tyvärr så att vi har folk som kan tvinga er att avslöja koden . 
+================================
+(src)="1318"> There will be two passcodes , one to open the phone , one to burn the drive . 
+(trg)="1104"> En kod låser upp telefonen och en förintar hårddisken . 
+================================
+(src)="1319"> Even under duress , you can' t know which one she' s given you ... ... and there would be no point in a second attempt . 
+(trg)="1105"> Om hon ger er fel kod får ni inte fler försök . 
+================================
+(src)="1320"> Oh , he' s good , isn' t he ? 
+(trg)="1106"> Visst är han slipad ? 
+================================
+(src)="1321"> I should have him on a leash . 
+(src)="1322"> In fact , I might . 
+(trg)="1107"> Jag tror att jag ska sätta koppel på honom . 
+================================
+(src)="1323"> We destroy this , then . 
+(src)="1324"> No one has the information . 
+(trg)="1108"> Då förstör vi telefonen . 
+================================
+(src)="1325"> Fine . 
+(src)="1326"> Good idea . 
+(src)="1327"> Unless there are lives of British citizens ... ... depending on the information you' re about to burn . 
+(trg)="1109"> Bra idé , såvida inga medborgares liv hänger på informationen . 
+================================
+(src)="1328"> Are there ? 
+(trg)="1110"> - Gör det det ? 
+================================
+(src)="1329"> Telling you would be playing fair . 
+(trg)="1111"> - Det vore rent spel att svara . 
+================================
+(src)="1330"> I' m not playing any more . 
+(trg)="1112"> Jag har spelat klart . 
+================================
+(src)="1331"> A list of my requests ... ... and some ideas about my protection once they' re granted . 
+(trg)="1113"> En lista på mina krav , och förslag på hur ni ska skydda mig när de beviljats . 
+================================
+(src)="1332"> I' d say it wouldn' t blow much of a hole in the wealth of a nation , but then I' d be lying . 
+(trg)="1114"> Jag skulle ljuga om jag sa att det inte försämrar rikets ekonomi . 
+================================
+(src)="1333"> I imagine you' d like to sleep on it ? 
+(trg)="1115"> - Ni vill säkert sova på saken . 
+================================
+(src)="1334"> - Thank you , yes . 
+(trg)="1116"> - Ja tack . 
+================================
+(src)="1335"> - Too bad . 
+(trg)="1117"> Osis . 
+================================
+(src)="1336"> Off you pop and talk to people . 
+(trg)="1118"> Stick i väg och diskutera saken . 
+================================
+(src)="1337"> You' ve been very thorough . 
+(trg)="1119"> Det är mycket omsorgsfullt . 
+================================
+(src)="1338"> I wish our lot were half as good as you . 
+(trg)="1120"> Om ändå våra tjänstemän var hälften så klipska . 
+================================
+(src)="1339"> I can' t take all the credit . 
+(trg)="1121"> Jag kan inte ta åt mig hela äran . 
+================================
+(src)="1340"> I had a bit of help . 
+(trg)="1122"> Jag fick lite hjälp . 
+================================
+(src)="1341"> - Oh , Jim Moriarty sends his love . 
+(trg)="1123"> - Jim Moriarty hälsar . 
+================================
+(src)="1342"> - Yes , he' s been in touch . 
+(trg)="1124"> - Han har kontaktat mig . 
+================================
+(src)="1343"> Seems desperate for my attention , which I' m sure can be arranged . 
+(trg)="1125"> Han vill verkligen ha min uppmärksamhet . 
+(trg)="1126"> Det kan ordnas . 
+================================
+(src)="1344"> I had all this stuff never knew what to do with it . 
+(src)="1345"> Thank God for the consultant criminal . 
+(trg)="1127"> Tack till brottskonsulten som hjälpte mig att dra nytta av all information . 
+================================
+(src)="1346"> Gave me a lot of advice about how to play the Holmes boys . 
+(trg)="1128"> Han lärde mig att manipulera bröderna Holmes . 
+================================
+(src)="1347"> Do you know what he calls you ? 
+(trg)="1129"> Vet ni vad han kallar er ? 
+================================
+(src)="1348"> The Ice Man ... ... and the Virgin . 
+(trg)="1130"> Ismannen ... ... och oskulden . 
+================================
+(src)="1349"> Didn' t even ask for anything , I think he just likes to cause trouble . 
+(trg)="1131"> Han njuter av att orsaka lidande . 
+================================
+(src)="1350"> Now , that' s my kind of man . 
+(trg)="1132"> Det är en man i min smak , det . 
+================================
+(src)="1351"> And here you are , the dominatrix who brought a nation to its knees . 
+(trg)="1133"> Och här är ni nu , en dominatrix som lade en hel nation för sina fötter . 
+================================
+(src)="1352"> - Nicely played . 
+(trg)="1134"> - Väl spelat . 
+================================
+(src)="1353"> - No . 
+(trg)="1135"> - Nej . 
+================================
+(src)="1354"> Sorry ? 
+(src)="1355"> I said no . 
+(trg)="1136"> Ursäkta ? 
+================================
+(trg)="1137"> Nej , sa jag . 
+================================
+(src)="1356"> Very , very close , but no . 
+(trg)="1138"> Men det var mycket nära . 
+================================
+(src)="1357"> You got carried away . 
+(src)="1358"> The game was too elaborate , you were enjoying yourself too much . 
+(src)="1359"> There' s no such thing as too much . 
+(trg)="1139"> Spelet var alltför utstuderat och du njuter alltför mycket av det . 
+================================
+(src)="1360"> Oh , enjoying the thrill of the chase is fine . 
+(src)="1361"> Craving the distraction of the game , I sympathise entirely , but sentiment ? 
+(trg)="1140"> Jag har full förståelse för suget efter spänning , men känslor ? 
+================================
+(src)="1362"> Sentiment is a chemical defect found in the losing side . 
+(src)="1363"> Sentiment ? 
+(trg)="1141"> Det är en kemisk brist som återfinns på förlorarens sida . 
+================================
+(src)="1364"> - What are you talking about ? 
+(src)="1365"> - You . 
+(trg)="1142"> - Vad pratar du om ? 
+================================
+(trg)="1143"> - Dig . 
+================================
+(src)="1366"> Oh , dear God . 
+(trg)="1144"> Kära nån , stackars krake . 
+================================
+(src)="1367"> Look at the poor man . 
+(src)="1368"> You don' t actually think I was interested in you ? 
+(trg)="1145"> Du tror väl inte att jag var intresserad av dig ? 
+================================
+(src)="1369"> Why ? 
+(src)="1370"> Because you' re the great Sherlock Holmes , the clever detective in the funny hat ? 
+(trg)="1146"> För att du är Sherlock Holmes , den smarta detektiven med lustig hatt ? 
+================================
+(src)="1371"> No . 
+(trg)="1147"> Nej ... 
+================================
+(src)="1372"> Because I took your pulse . 
+(trg)="1148"> För att jag tog din puls . 
+================================
+(src)="1373"> Elevated . 
+(src)="1374"> Your pupils dilated . 
+(trg)="1149"> Upprymd , vidgade pupiller ... 
+================================
+(src)="1375"> I imagine John Watson thinks love is a mystery to me ... ... but the chemistry is incredibly simple and very destructive . 
+(trg)="1150"> John Watson tror kanske att kärlek är en gåta för mig , men kemin är enkel . 
+================================
+(src)="1376"> When we first met , you told me that disguise is always a self- portrait . 
+(src)="1377"> How true of you . 
+(trg)="1151"> Det är sant att förklädnader speglar ens rätta jag . 
+================================
+(src)="1378"> The combination to your safe ... ... your measurements , but this , this is far more intimate . 
+(trg)="1152"> Koden till kassaskåpet var dina mått . 
+================================
+(src)="1379"> This is your heart and you should never let it rule your head . 
+(trg)="1153"> Att lämna ut ditt hjärta är intimare . 
+(trg)="1154"> Låt det aldrig styra över ditt huvud . 
+================================
+(src)="1380"> You could have chosen any random number and walked out of here today ... ... with everything you' ve worked for . 
+(src)="1381"> But you just couldn' t resist it , could you ? 
+(trg)="1155"> Du kunde ha valt vilket slumpartat tal som helst , men du kunde inte låta bli . 
+================================
+(src)="1382"> I' ve always assumed that love is a dangerous disadvantage . 
+(trg)="1156"> Jag har utgått från att kärlek sätter en i underläge . 
+================================
+(src)="1383"> Thank you for the final proof . 
+(trg)="1157"> Tack för det slutliga beviset . 
+================================
+(src)="1384"> Everything I said , it' s not real . 
+(trg)="1158"> Jag menade inget av det jag sa . 
+================================
+(src)="1385"> - I was just playing the game . 
+(src)="1386"> - I know . 
+(trg)="1159"> - Det var ett spel . 
+================================
+(trg)="1160"> - Jag vet . 
+================================
+(src)="1387"> And this is just losing . 
+(trg)="1161"> Och nu förlorar du . 
+================================
+(src)="1388"> There you are , brother . 
+(trg)="1162"> Varsågod . 
+================================
+(src)="1389"> I hope the contents make up for any inconvenience ... 
+(src)="1390"> - ... I may have caused you tonight . 
+(src)="1391"> - I' m certain they will . 
+(trg)="1163"> Jag hoppas att innehållet kompenserar för besväret . 
+================================
+(src)="1392"> If you' re feeling kind , lock her up , otherwise let her go . 
+(trg)="1164"> Du kan släppa henne . 
+================================
+(src)="1393"> I doubt she' il survive long without her " protection " . 
+(trg)="1165"> Hon överlever inte länge . 
+================================
+(src)="1394"> - Are you expecting me to beg ? 
+(src)="1395"> - Yes . 
+(trg)="1166"> - Tvingar du mig att be ? 
+================================
+(trg)="1167"> - Ja . 
+================================
+(src)="1396"> Please . 
+(trg)="1168"> Snälla ... 
+================================
+(src)="1397"> You' re right . 
+(trg)="1169"> Du har rätt . 
+================================
+(src)="1398"> I won' t even last six months . 
+(trg)="1170"> Jag skulle inte klara mig ens ett halvår . 
+================================
+(src)="1399"> I' m sorry about dinner . 
+(trg)="1171"> Det blir tyvärr ingen middag . 
+================================
+(src)="1400"> - You don' t smoke . 
+(trg)="1172"> - Du röker väl inte ? 
+================================
+(src)="1401"> - I also don' t frequent cafÃ©s . 
+(trg)="1173"> - Jag bevistar inte kaféer heller . 
+================================
+(src)="1402"> It' s the file on Irene Adler ? 
+(trg)="1174"> - Är det Irene Adlers akt ? 
+================================
+(src)="1403"> Closed forever . 
+(trg)="1175"> - Avslutad för gott . 
+================================
+(src)="1404"> I am about to go and inform my brother , or , if you prefer , you are ... ... that she somehow got herself into a Witness Protection scheme in America . 
+(trg)="1176"> Jag är på väg för att meddela min bror , om inte du vill göra det ... ... att hon lyckades få vittnesskydd i USA . 
+================================
+(src)="1405"> New name , new identity . 
+(trg)="1177"> Nytt namn , ny identitet . 
+================================
+(src)="1406"> She will survive and thrive ... ... but he will never see her again . 
+(trg)="1178"> Hon kommer att överleva , men han får aldrig träffa henne igen . 
+================================
+(src)="1407"> Why would he care ? 
+(src)="1408"> He despised her at the end . 
+(trg)="1179"> Han föraktade henne på slutet . 
+================================
+(src)="1409"> Won' t even mention her by name , just The Woman . 
+(trg)="1180"> Han talar bara om henne som " Kvinnan " . 
+================================
+(src)="1410"> Is that loathing or a salute ? 
+(trg)="1181"> Är det bevis på förakt eller är det en hyllning ? 
+================================
+(src)="1411"> One of a kind , the one woman who matters ? 
+(trg)="1182"> " Den enda kvinna som betyder nåt . " 
+================================
+(src)="1412"> He' s not like that . 
+(trg)="1183"> Han är inte sån . 
+================================
+(src)="1413"> He doesn' t feel things that way . 
+(src)="1414"> I don' t think . 
+(trg)="1184"> Han har inte känslor på det sättet , tror jag . 
+================================
+(src)="1415"> My brother has the brain of a scientist or a philosopher ... ... yet he elects to be a detective . 
+(trg)="1185"> Min bror kunde vara forskare eller filosof , men väljer att vara detektiv . 
+================================
+(src)="1416"> - What might we deduce about his heart ? 
+(trg)="1186"> - Vad säger det om hans hjärta ? 
+================================
+(src)="1417"> - I don' t know . 
+(trg)="1187"> - Jag vet inte . 
+================================
+(src)="1418"> Neither do I . 
+(trg)="1188"> Inte jag heller . 
+================================
+(src)="1419"> But initially he wanted to be a pirate . 
+(trg)="1189"> Men i tidiga år ville han bli pirat . 
+================================
+(src)="1420"> He' il be okay with this , Witness Protection , never seeing her again , he' il be fine . 
+(trg)="1190"> - Han tål att höra om vittnesskyddet . 
+================================
+(src)="1421"> I agree . 
+(trg)="1191"> - Jag håller med . 
+================================
+(src)="1422"> That' s why I decided to tell him that . 
+(src)="1423"> Instead of what ? 
+(trg)="1192"> Därför bestämde jag mig för att säga det . 
+================================
+(trg)="1193"> - I stället för vad ? 
+================================
+(src)="1424"> She' s dead . 
+(trg)="1194"> - Hon är död . 
+================================
+(src)="1425"> She was captured by a terrorist cell in Karachi two months ago and beheaded . 
+(trg)="1195"> Hon blev tillfångatagen av terrorister i Karachi och halshöggs . 
+================================
+(src)="1426"> It was definitely her ? 
+(src)="1427"> She' s done this before . 
+(trg)="1196"> - Hon har fejkat sin egen död förut . 
+================================
+(src)="1428"> I was thorough this time . 
+(trg)="1197"> - Den här gången var jag noggrann . 
+================================
+(src)="1429"> It would take Sherlock Holmes to fool me and I don' t think he was on hand , do you ? 
+(trg)="1198"> Bara Sherlock Holmes kan lura mig . 
+(trg)="1199"> Och han stod knappast till buds . 
+================================
+(src)="1430"> So ... 
+(trg)="1200"> Så ... 
+================================
+(src)="1431"> What shall we tell Sherlock ? 
+(trg)="1201"> Vad ska vi säga till Sherlock ? 
+================================
+(src)="1432"> Clearly you' ve got news . 
+(trg)="1202"> Du kommer med nyheter . 
+================================
+(src)="1433"> If it' s about the Leeds triple murder , it was the gardener . 
+(src)="1434"> Did nobody notice the earring ? 
+(src)="1435"> Hi . 
+(trg)="1203"> Trippelmordet i Leeds utfördes av trädgårdsmästaren . 
+================================
+(src)="1436"> Uh , no , it' s um ... 
+(src)="1437"> It' s about Irene Adler . 
+(trg)="1204"> Nej , det ... 
+================================
+(trg)="1205"> Det handlar om Irene Adler . 
+================================
+(src)="1438"> Well ? 
+(trg)="1206"> Va ? 
+================================
+(src)="1439"> Has something happened ? 
+(src)="1440"> Has she come back ? 
+(src)="1441"> No , no , she' s ... 
+(trg)="1207"> - Har hon kommit tillbaka ? 
+================================
+(src)="1442"> I just bumped into Mycroft downstairs ... ... he had to take a call . 
+(trg)="1208"> - Nej då . 
+(trg)="1209"> Jag träffade Mycroft där nere . 
+================================
+(src)="1443"> - Is she back in London ? 
+(src)="1444"> - No . 
+(trg)="1210"> - Är hon tillbaka i London ? 
+================================
+(src)="1445"> She' s , uh ... 
+(trg)="1211"> - Nej , hon ... 
+================================
+(src)="1446"> - She' s in America . 
+(trg)="1212"> ... är i USA . 
+================================
+(src)="1447"> - America ? 
+(src)="1448"> Got herself on a Witness Protection scheme , apparently . 
+(trg)="1213"> Hon lyckades förhandla till sig vittnesskydd . 
+================================
+(src)="1449"> I don' t know how she swung it but ... 
+(trg)="1214"> - Hur hon nu gjorde det . 
+================================
+(src)="1450"> - Well , you know . 
+(trg)="1215"> Så , du vet ... 
+(trg)="1216"> - Vad vet jag ? 
+================================
+(src)="1451"> - I know what ? 
+================================
+(src)="1452"> Well , you won' t be able to see her again . 
+(trg)="1217"> - Du kan aldrig träffa henne igen . 
+================================
+(src)="1453"> - Why would I want to see her again ? 
+(src)="1454"> - Didn' t say you did . 
+(trg)="1218"> - Varför skulle jag vilja det ? 
+================================
+(src)="1455"> - Is that her file ? 
+(src)="1456"> - Yes . 
+(trg)="1219"> - Är det hennes akt ? 
+================================
+(src)="1457"> I was just going to take it back to Mycroft . 
+(trg)="1220"> - Ja , Mycroft ska få den . 
+================================
+(src)="1458"> - Do you want to ... 
+(src)="1459"> - No . 
+(trg)="1221"> - Vill du ? 
+================================
+(trg)="1222"> - Nej . 
+================================
+(src)="1460"> Listen , actually ... 
+(trg)="1223"> - Jo ... 
+================================
+(src)="1461"> No , but I will have the camera- phone , though . 
+(trg)="1224"> - Men jag vill ha kameramobilen . 
+================================
+(src)="1462"> There' s nothing on it any more . 
+(src)="1463"> It' s been stripped . 
+(src)="1464"> I know , but I ... 
+(trg)="1225"> - Den är tömd på information . 
+================================
+(src)="1465"> I' il still have it . 
+(trg)="1226"> - Jag vet , men ... ändå . 
+================================
+(src)="1466"> I' ve got to give this back to Mycroft , you can' t keep it . 
+(trg)="1227"> Jag måste återlämna den till Mycroft . 
+================================
+(src)="1467"> Sherlock , I have to give this to Mycroft , it' s the government' s now . 
+(trg)="1228"> Den tillhör myndigheterna , jag kan inte ... 
+================================
+(src)="1468"> - I couldn' t ... 
+(src)="1469"> - Please . 
+(trg)="1229"> Tack . 
+================================
+(src)="1470"> Thank you . 
+(trg)="1230"> Tack . 
+================================
+(src)="1471"> - Well , I' d better take this back . 
+(src)="1472"> - Yes . 
+(trg)="1231"> Jag måste lämna tillbaka akten . 
+================================
+(src)="1473"> Did she ever text you again after all that ? 
+(trg)="1232"> Fick du nåt mer sms från henne ? 
+================================
+(src)="1474"> Once , a few months ago . 
+(trg)="1233"> Ett , för några månader sen . 
+================================
+(src)="1475"> What did she say ? 
+(trg)="1234"> - Vad skrev hon ? 
+================================
+(src)="1476"> " Goodbye , Mr Holmes . " 
+(trg)="1235"> - " Farväl , mr Holmes . " 
+================================
+(trg)="1236"> FARVÄL , MR HOLMES 
+================================
+(trg)="1237"> FARVÄL , MR HOLMES 
+================================
+(trg)="1238"> SKICKA 
+================================
+(src)="1477"> When I say run , run . 
+(trg)="1239"> När jag säger spring , springer du . 
+================================
+(src)="1478"> The Woman . 
+(trg)="1240"> " Kvinnan ... " 
+================================
+(src)="1479"> The Woman . 
+(trg)="1241"> Den enda . 
+================================
+(trg)="1242"> Översättning : 
+================================
+(trg)="1243"> Sara Vikström Åhlén www . undertext . se 
+================================
